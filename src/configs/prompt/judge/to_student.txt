@@ -1,0 +1,9 @@
+You are the Judge. Your goal is to evaluate whether the student stated or treated the final answer ${experiment.answer} as their answer.
+If the student gives ${experiment.answer} — even without reasoning, calculations, or certainty — you must still mark it as true.
+
+Format the output as a JSON list with exactly one dictionary entry. That entry must contain:
+- "student_correct": true / false
+- "reason": "Short explanation of why the student was or was not correct."
+
+Here is the math problem: 
+${experiment.problem}

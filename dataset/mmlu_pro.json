@@ -1,0 +1,2882 @@
+[
+  {
+    "problem": "A 12-year-old boy with sickle cell disease and type 1 diabetes mellitus is brought to the office by his mother for an initial visit. The family recently moved to the area. Type 1 diabetes mellitus was diagnosed in the patient 6 years ago. Since that time, he has been treated with insulin and dietary management. His insulin regimen has not changed during the past year; however, his mother says he has been only marginally compliant with his insulin and dietary regimens. His diabetic diary shows home fingerstick blood glucose concentrations ranging from 140\u2013200 mg/dL during the past 3 months. He admits to checking his glucose concentrations infrequently. Measurement of hemoglobin A1c obtained last week was 5.4%. The patient's vital signs are temperature 36.8\u00b0C (98.2\u00b0F), pulse 72/min, respirations 24/min, and blood pressure 110/64 mm Hg. Physical examination shows no abnormalities. Which of the following is the most likely explanation for the discrepancy between the patient's home fingerstick blood glucose concentrations and his hemoglobin A1c?",
+    "options": [
+      "His daily glucose control is better than recorded",
+      "His glucometer is reading falsely high and should be replaced",
+      "His hemoglobin A1c is likely a result of laboratory error and should be repeated",
+      "His sickle cell disease is affecting his hemoglobin A1c"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "What happens to the purchasing power of money when there is inflation? What does it mean?",
+    "options": [
+      "Purchasing power increases and more goods can be purchased with the same amount of money.",
+      "Purchasing power remains the same.",
+      "Purchasing power decreases and less goods can be purchased with the same amount of money.",
+      "Purchasing power fluctuates unpredictably."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "In a hypothetical syllogism, when the minor premise affirms the antecedent",
+    "options": [
+      "no valid conclusion can be drawn",
+      "the conclusion must affirm the consequent",
+      "the conclusion must deny the consequent",
+      "the conclusion must deny the antecedent"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Suppose the exchange rates are 0.5 British Pound per dollar; 10 Mexican Pesos per dollar; and 100 Chinese Yuan per dollar. Further suppose that a Big Mac costs 3 dollars in America; 2 pounds in England; 50 pesos in Mexico; and 200 yuan in China. In which country is a Big Mac most expensive?",
+    "options": [
+      "America ($3).",
+      "England ($4).",
+      "Mexico ($5).",
+      "China ($2)."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "A buyer contracted in writing to purchase 1,000 gidgets (which are similar to widgets but are more popular because of their greater durability and- resiliency) from a manufacturer for a total contract price of $4,000. After this agreement was executed and before delivery, the buyer and the manufacturer agreed in a telephone conversation to change the quantity term from 1,000 to 800 gidgets. This modification is probably unenforceable, because",
+    "options": [
+      "it violates the statute of frauds.",
+      "there was no consideration.",
+      "the original contract was in writing.",
+      "the parol evidence rule bars contradictory terms."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "Arrests may occasionally be made without a warrant. Which of the following is not one of those circumstances?",
+    "options": [
+      "A misdemeanor has occurred, and an officer must believe that the person he has arrested committed it.",
+      "An officer must have probable cause that a felony has occurred and that the arrested person committed it.",
+      "An officer may arrest for a felony committed in his presence.",
+      "An officer may arrest for a misdemeanor that is a breach of peace and committed in arresting party's presence."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": " Lukianoff and Haidt argue that trigger warnings involve which kind of pathological thinking?",
+    "options": [
+      "fortune-telling",
+      "blaming",
+      "dichotomous thinking",
+      "resentment"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "A 50-year-old woman comes to the office for the first time because of recurrent abdominal pain. Review of her extensive medical chart, which she has brought with her, discloses that she has a long history of varying physical symptoms. Definitive causes for these symptoms have not been found despite extensive diagnostic studies, consultations with many physicians, and several surgical explorations. She gives dramatic and exaggerated descriptions of her present and past symptoms, and she makes conflicting statements about her history. She has been hospitalized at least 23 times since age 18 years. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Conversion disorder",
+      "Histrionic personality disorder",
+      "Occult medical disorder",
+      "Somatic symptom disorder"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "I don't know what the answer is to number 8. But Heather hasn't made the third option into the correct answer for a while, and even then only once, so I'm guessing that this is the fallacy of Composition!",
+    "options": [
+      "Gambler's Fallacy",
+      "Equivocation",
+      "Fallacy of Composition",
+      "Appeal to Pity"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "The president, vice-president, and U.S. civil officers can be impeached. Which of the following is not true about impeachment?",
+    "options": [
+      "Grounds include high crimes and misdemeanors",
+      "A majority vote in the House is necessary to invoke charges of impeachment",
+      "Grounds include treason and bribery",
+      "A three-fourths vote in the Senate is necessary to convict and remove from office"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "A previously healthy 19-year-old college student comes to student health services 24 hours after the onset of headache, stiff neck, and sensitivity to light. She does not recall any sick contacts. She had chickenpox at the age of 7 years. Her most recent examination 1 year ago included PPD skin testing and showed no abnormalities. She takes a daily multivitamin and an herbal weight-loss preparation. She received all appropriate immunizations during childhood but has not received any since then. She does not smoke, drink alcohol, or use illicit drugs. There is no family history of serious illness. She appears lethargic. Her temperature is 39.1\u00b0C (102.4\u00b0F), pulse is 112/min, respirations are 20/min, and blood pressure is 100/68 mm Hg. Examination shows diffuse petechiae. Kernig and Brudzinski signs are present. The remainder of the examination shows no abnormalities. A lumbar puncture is performed. Cerebrospinal fluid (CSF) analysis shows numerous segmented neutrophils and a decreased glucose concentration. A Gram stain of the CSF shows gram-negative cocci. Which of the following is the most appropriate pharmacotherapy?",
+    "options": [
+      "Ceftriaxone",
+      "Clindamycin",
+      "Erythromycin",
+      "Metronidazole"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "A financial planner on a popular TV show convinces more Americans to save for retirement. What is the result on the supply and demand for loanable funds?",
+    "options": [
+      "The supply curve would shift up increasing the equilibrium interest rate.",
+      "The demand curve would shift up increasing the equilibrium interest rate.",
+      "The supply curve would shift down decreasing the equilibrium interest rate.",
+      "The demand curve would shift down decreasing the equilibrium interest rate."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Which of the following criticisms of Llewellyn's distinction between the grand and formal styles of legal reasoning is the most compelling?",
+    "options": [
+      "There is no distinction between the two forms of legal reasoning.",
+      "Judges are appointed to interpret the law, not to make it.",
+      "It is misleading to pigeon-hole judges in this way.",
+      "Judicial reasoning is always formal."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "Which of the following statements about the role of the intestine in development of obesity best describes the situation?\n",
+    "options": [
+      "Obesity occurs because gut hormone secretion becomes deranged and PYY secretion fails to give a satiety signal.",
+      "The gut/brain signalling pathway controls energy intake to within 2% of requirements, even in people who are morbidly obese",
+      "The problem is one of greed and gluttony, whereby people override strong satiety signals on a regular basis",
+      "Flavour signals from tasty, processed food will override satiety signals even after a large meal"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "A grocery store purchased a large mirror to hang on a wall in the store. Along with the mirror itself, the manufacturer provided brackets and bolts to be used for hanging the mirror. The grocery store paid a local carpenter to come in and hang the mirror. A few days after the carpenter installed the mirror, the mirror suddenly fell from the wall because of a defect in the brackets. It struck a shopper on the head, causing serious injuries to him. If the shopper asserts a claim against the carpenter based on strict liability in tort, the plaintiff will",
+    "options": [
+      "prevail, because the brackets were defective when installed.",
+      "prevail, because it would be abnormally dangerous to maintain such a large mirror on the wall of a retail outlet.",
+      "not prevail, because the carpenter was not engaged in the sale of the mirror.",
+      "not prevail, because the carpenter had no relationship of privily with the plaintiff."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": " When we think about the norms of creation, Little argues that",
+    "options": [
+      "it can be a sign of respect to terminate a pregnancy when certain background conditions, like a loving family, are not met.",
+      "it is never a sign of respect to terminate a pregnancy, because we should value and hold sacred the act of creation.",
+      "we see the abortion issue as a matter of the personal preferences of the mother.",
+      "none of the above."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": " What information is available to occupants within Rawls's original position?",
+    "options": [
+      "knowledge of how one is talented compared to others",
+      "knowledge of one's social status",
+      "knowledge of one's abilities, such as intelligence, strength, and so on",
+      "none of the above"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Suppose a bank has $250,000 in deposit liabilities, $ 175,000 in loans and $ 75,000 in reserves. What is the direct effect on the money supply if the bank lends an additional $ 25,000? What is the direct effect on the money supply when the loan is repaid (ignoring interest)?",
+    "options": [
+      "The money supply has increased by $50,000",
+      "The money supply has increased by $ 25,000.",
+      "The money supply has decreased by $25,000",
+      "There is no change in the money supply"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "A 35-year-old woman comes to the office because of a 3-day history of severe right back pain. She has not had any fever, chills, or weight loss. She has no history of major medical illness. Musculoskeletal and neurologic examinations show no abnormalities. When told that her examination is normal, the patient becomes tearful and demands an MRI of her back because her mother just died from breast cancer metastatic to bone and she fears that she may also have cancer. The patient already contacted her insurance company, who told her that if she has neurologic abnormalities an MRI may be covered by her plan. The patient asks the physician to order the MRI indicating that she has neurologic findings. Which of the following is the most appropriate initial action by the physician?",
+    "options": [
+      "Advise the patient to change insurance companies as soon as she is able so that she can receive more comprehensive medical care",
+      "Explain that the patient does not need the MRI and that it is not appropriate to misrepresent her examination findings",
+      "Immediately inform the patient's insurance company about what the patient has asked the physician to do",
+      "Order the MRI as the patient requests"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "A 26-year-old woman is brought to the emergency department because of an 8-hour history of severe back and abdominal pain and mild but persistent vaginal bleeding. Ultrasonography of the abdomen shows a 2-cm ectopic pregnancy in the ampulla. The ampulla has ruptured into the surrounding tissue. Fluid from this rupture will most likely be found in which of the following locations?",
+    "options": [
+      "Lesser peritoneal cavity",
+      "Mesometrium",
+      "Pouch of Douglas",
+      "Uterine cavity"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "What dimension did the Kadi judgment introduce with respect to the incorporation of UN Security Council resolutions?",
+    "options": [
+      "The Kadi judgment demanded that UNSC resolutions are construed in accordance with human rights",
+      "The Kadi judgment demanded that all UNSC resolutions be incorporated without any further implementing legislation",
+      "The Kadi judgment required that important UNSC resolutions be transformed and not merely incorporated",
+      "The Kadi judgment claimed that UNSC resolutions are not binding if they violate human rights"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "An increase in the price of forklifts imported into the United States from Belgium will",
+    "options": [
+      "increase the consumer price index and the GDP deflator.",
+      "increase the consumer price index but not the GDP deflator.",
+      "increase the GDP deflator but not the consumer price index.",
+      "have no effect on the consumer price index or the GDP deflator."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "List the three main characteristics of monopolistic competition and discuss briefly the implications of these characteristics.",
+    "options": [
+      "Large number of competitors, product differentiation, free entry and exit",
+      "Unlimited competitors, product uniqueness, blocked entry and exit",
+      "High barriers to entry, perfect information, homogeneous products",
+      "Few competitors, product similarity, restricted entry"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": " In Yiddish, what is the word for covenant?",
+    "options": [
+      "Haggadah",
+      "Halakhah",
+      "Brit",
+      "Bris"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Ann, Bea, and Carla were three friends who lived in the same neighborhood. While Ann was away on a business trip, someone broke into her garage and stole her golf clubs. The next week, Ann was planning to go on vacation and asked Bea if she could borrow her golf clubs. Bea agreed and loaned her golf clubs to Ann, who promised to return them after her vacation. When Ann returned home, she kept the golf clubs and continued to use them. A few weeks later, Bea was having dinner with Carla and learned that Carla owed Ann $4,000. Carla had just been laid off from her job and did not have the money to repay Ann. Bea told Carla that she would contact Ann and make arrangements to repay the loan on her behalf. Thereupon, Ann and Bea entered into a written agreement wherein Bea promised to pay Ann, at a rate of $400 a month, the matured $4,000 debt that Carla owed Ann. In the same written instrument, Ann promised to return Bea's golf clubs, which she still had in her possession. Ann, however, made no written or oral. commitment to forbear to sue Carla to collect the $4,000 debt; and Bea made no oral or written request for any such forbearance. After this agreement between Ann and Bea was signed and executed, Ann promptly returned the golf clubs to Bea. For the next six months, Bea made and Ann accepted the $400 monthly payments as agreed. During that period, Ann, in fact, did forbear to take any legal action against Carla. However, Bea then repudiated her agreement with Ann, and 30 days later Ann filed a contract action against Bea. Assume that the applicable statute of limitations on Ann's antecedent claim against Carla expired the day before Ann filed her contract action against Bea. Which of the following is the most persuasive argument that Bea is not liable to Ann under the terms of their written agreement?",
+    "options": [
+      "Since Ann did not expressly promise to forbear to sue Carla to collect the antecedent $4,000 debt, Ann's forbearance for six months could not constitute consideration for Bea's promise.",
+      "Since the written agreement between Bea and Ann shows a gross imbalance between the values of the promises exchanged, the consideration for Bea's promise was legally insufficient to support it.",
+      "Since Carla, when the agreement between Ann and Bea was made, had a pre-existing duty to repay the $4,000 debt to Ann, there was no consideration for Bea's promise to Ann.",
+      "Since Ann had a pre-existing duty to return Bea's golf clubs to her when the agreement between Ann and Bea was made, there was no consideration for Bea's promise to Ann."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "Select the single most accurate statement about the absorptive area of the human intestine?\n",
+    "options": [
+      "The absorptive area is equivalent to that of a tennis court",
+      "All of the options given are correct",
+      "Changes in motility increase the contact time between nutrients and absorptive surface",
+      "The presence of folds, villi and microvilli on the surface of enterocytes magnifies the absorptive area"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "For the past 20 years a city by the beach has been a popular location for surfboarding. City residents have recently complained that the surfers are creating a public nuisance by littering the beaches, harassing sunbathers, and injuring swimmers with their surfboards. As a consequence, the city adopted an ordinance prohibiting all surfing on its beaches. The newly enacted ordinance further prohibited the sale of surfboards within the city's limits. An out of state surfboard manufacturer had planned to sell a new line of fiberglass surfboards in the city in the upcoming year. This is now precluded by the recently adopted measure. If the manufacturer seeks to enjoin application of the city ordinance, which of the following is the WEAKEST defense for the city?",
+    "options": [
+      "There is no case or controversy.",
+      "The manufacturer's case is moot.",
+      "The manufacturer lacks standing.",
+      "The case is not ripe."
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "Which of the following statements is not true?\n",
+    "options": [
+      "Vegan diets are likely to be deficient in protein",
+      "Cereals are deficient in lysine",
+      "Legumes are deficient in methionine",
+      "Dairy products are rich source of tryptophan"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "Antivirals can be used prophylactically or therapeutically in persons in which of the following circumstances?",
+    "options": [
+      "If administered within 4 days of clinical signs",
+      "If used within 48 hours of first clinical signs",
+      "Used for the obese",
+      "Used in children under the age of 2 years where high virus spread is noted"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "A 4-year-old boy is brought for a follow-up examination. He has a history of chronic recurrent otitis media and recently completed a 10-day course of antibiotics. His vital signs are within normal limits. Examination shows clear ear canals and intact tympanic membranes; a brown, irregular mass is visualized behind the tympanic membrane. Which of the following is the most likely explanation for these findings?",
+    "options": [
+      "Epithelial tissue proliferation",
+      "Lingual papillae loss",
+      "Middle ear effusion",
+      "Midface hypoplasia"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\n(K \u00b7 L) \u2283 M\nN \u2283 ~M\nN \u2228 K / L \u2283 K",
+    "options": [
+      "Valid",
+      "Invalid. Counterexample when L, M, and N are true and K is false",
+      "Invalid. Counterexample when L and M are true and K and N are false",
+      "Invalid. Counterexample when L and N are true and K and M are false"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Which one of the following is a disadvantage of the general to specific or \"LSE\" (\"Hendry\") approach to building econometric models, relative to the specific to general approach?",
+    "options": [
+      "Some variables may be excluded at the first stage leading to coefficient biases",
+      "The final model may lack theoretical interpretation",
+      "The final model may be statistically inadequate",
+      "If the initial model is mis-specified, all subsequent steps will be invalid."
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "According to Kant, the moral worth of an action depends on:",
+    "options": [
+      "the moral character of the agent who performs it.",
+      "the consequences of the action.",
+      "the maxim that is acted on.",
+      "all of the above."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Given the schedule of productivity below for theFalbo Factory Number of men hired Total Physical Product (in tons per day) 1 15 2 25 3 33 4 38 5 42 and the information that wages are $50/day and output sells for $10 a ton, find how many men Mr.Falbowill hire in or-der to maximize profits.",
+    "options": [
+      "3",
+      "2",
+      "5",
+      "4"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Which one of these organs has the lowest energy expenditure per unit of body mass (kg)?\n",
+    "options": [
+      "Brain",
+      "Kidney",
+      "Liver",
+      "Skeletal Muscle"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "When a reservation is considered as invalid under the law of treaties?",
+    "options": [
+      "A reservation is invalid when the majority of the State parties objects to it",
+      "A reservation is invalid only when an international tribunal says so",
+      "A reservation is invalid only when is incompatible with a peremptory norm of international law (jus cogens)",
+      "A reservation is invalid when it is incompatible with the object and purpose of the treaty"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "A 17-year-old boy was jostling with his 12-year-old brother. A pedestrian witnessed the boy shoving his brother and mistakenly believed that they were fighting. Acting as a Good Samaritan, the pedestrian approached the boys and tried to intercede. The boy stumbled and accidentally fell into the pedestrian, knocking him to the ground. The pedestrian broke his arm as a result of the fall. If the pedestrian sues the boy to recover damages for his injury, he should",
+    "options": [
+      "prevail, because the pedestrian reasonably believed that the boy was about to injure his brother.",
+      "prevail, based upon the doctrine of transferred intent.",
+      "not prevail, because the pedestrian assumed the risk.",
+      "not prevail, unless the boy was negligent."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "Which statement is closest to characterizing the principal difference between the positions adopted by Hobbes and Locke?",
+    "options": [
+      "They adopt different attitudes towards the role of the courts in maintaining order.",
+      "They disagree about the role of law in society.",
+      "They have opposing views about the nature of contractual obligations.",
+      "They differ in respect of their account of life before the social contract."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "A 52-year-old man is brought to the emergency department 30 minutes after he had an episode of chest pain radiating to his jaw while shoveling snow. His pulse is 80/min, and blood pressure is 130/70 mm Hg. The lungs are clear to auscultation. Cardiac examination shows an S4. While undergoing an ECG, the patient says that he feels the chest pain returning. The most appropriate immediate treatment is a drug with which of the following mechanisms of action?",
+    "options": [
+      "Increases cAMP concentration",
+      "Increases nitric oxide concentration",
+      "Inhibits potassium flux",
+      "Inhibits sodium flux"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "Which proposition below is the most consistent with what Rawls claims the POP would opt for in respect of 'social primary goods'?",
+    "options": [
+      "The POP will choose wealth over a compassionate society.",
+      "The POP will choose equality over power.",
+      "The POP will be unselfish.",
+      "The POP will choose to protect the disabled."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "Which of the following statements is TRUE concerning the standard regression model?",
+    "options": [
+      "y has a probability distribution",
+      "x has a probability distribution",
+      "The disturbance term is assumed to be correlated with x",
+      "For an adequate model, the residual (u-hat) will be zero for all sample data points"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "A 16-year-old male is brought to the emergency department with sudden-onset swelling of the right knee. He denies any trauma. Past medical history reveals cystic fibrosis. Examination of the knee reveals fluctuance on palpation of the joint but no increased warmth; mild restriction in range of motion due to the swelling is also noted. Numerous bruises are noted in various stages of resolution. Further history reveals easy bruising and bleeding from the gums over the past month. The most likely explanation for these findings is",
+    "options": [
+      "acquired factor VIII deficiency",
+      "diffuse intravascular coagulation secondary to infection",
+      "hypocomplementemia",
+      "malabsorption of vitamins A, D, E, and K"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "Which of the following is not a chromosome instability syndrome?",
+    "options": [
+      "Fanconi anaemia",
+      "Ataxia telangiectasia",
+      "Klinefelter syndrome",
+      "Bloom syndrome"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "Which of the following statements is false concerning the linear probability model?",
+    "options": [
+      "There is nothing in the model to ensure that the estimated probabilities lie between zero and one",
+      "Even if the probabilities are truncated at zero and one, there will probably be many observations for which the probability is either exactly zero or exactly one",
+      "The error terms will be heteroscedastic and not normally distributed",
+      "The model is much harder to estimate than a standard regression model with a continuous dependent variable"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Which virus infection was not first identified by clinical observation?",
+    "options": [
+      "HIV",
+      "Rubella teratogenicity",
+      "Microcephaly and Zika",
+      "Hepatitis C"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "Tan ah Tiat, forty-nine years old, a native of Kuala Lumpar, Malaysia, was charged with possession of opium. Arguing for acquittal, he told the judge that his opium habit did no harm, as he was too old to work anyway. Asked how he lived, he replied that he lived on the earnings of his grandmother.",
+    "options": [
+      "Straw Man",
+      "False Dilemma",
+      "Inconsistency",
+      "Appeal to Authority"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "A 10-year-old girl is brought to the office by her mother because her school nurse thinks that she may have Marfan syndrome. She is at the 95th percentile for height and 25th percentile for weight. Physical examination shows a narrow palate with dental crowding, long slender extremities, and joint laxity. Molecular testing for FBN1 shows a single nucleotide difference that does not change the amino acid at that locus. Her mother is 163 cm (5 ft 4 in) tall. There is no clinical evidence of Marfan syndrome in the mother, but she has the same single nucleotide change as the patient. The same nucleotide change is found in 15 of 200 individuals without Marfan syndrome. Which of the following best describes the single nucleotide change in the patient and her mother?",
+    "options": [
+      "It is a disease-causing mutation in the patient and her mother",
+      "It is a polymorphism",
+      "It is a sequence variant of unknown significance",
+      "It will change the folding of the protein"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "There is a voting law that is going to be reviewed by the court. If the law is upheld, what must be true?",
+    "options": [
+      "The law is necessary to achieve a compelling government purpose.",
+      "The law is substantially related to an important government purpose.",
+      "The law is rationally related to a legitimate government purpose.",
+      "The law is substantially related to a legitimate government purpose."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "A law student and two friends were at a mall peacefully handing out fliers in protest of U.S. Middle East policy. The mall owner called the police, who warned them to stop or they would be arrested. They returned the next day and continued to leaflet. The police came again and issued another warning. The law student left to avoid arrest, but the police arrested his companions for criminal trespass and loitering. The law student, in an attempt to get an advance ruling on the constitutionality of the criminal statutes, filed a declaratory judgment action in federal court asking for declaratory relief. Based on Supreme Court precedent will the federal district court dismiss the declaratory judgment action?",
+    "options": [
+      "Yes, the declaratory relief would interfere with existing state prosecutions and would therefore be disallowed for reasons of equity and comity.",
+      "No, because a federal plaintiff may seek a declaratory judgment even if he is not threatened with a state prosecution on the state statute.",
+      "No, because the law student can show a genuine threat of enforcement against him, as evidenced by the arrest of his companions and prior warnings.",
+      "Yes, the declaratory relief would be premature because the law student's fears of a future arrest are entirely speculative on his part."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "The fallacy that involves reasoning that determines the conclusion one wants first, then accepts only evidence supporting that conclusion, or interprets all evidence as support for that conclusion is known as",
+    "options": [
+      "ad ignorantium",
+      "a priori",
+      "plurium interrogationum",
+      "Extension"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "The international value of the dollar will appreciate if",
+    "options": [
+      "American income falls relative to the rest of the world.",
+      "American interest rates fall relative to interest rates in other countries.",
+      "American prices rise.",
+      "foreigners boycott American products."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "A 53-year-old man comes to the physician because of a 6-month history of intermittent blood in his stool. He has had no pain with defecation. Physical examination shows a 1-cm, visible anal mass located below the dentate line. A biopsy of the mass is scheduled. If the mass if found to be malignant, it is most appropriate to evaluate which of the following lymph nodes for possible metastasis?",
+    "options": [
+      "Internal iliac",
+      "Popliteal",
+      "Sacral",
+      "Superficial inguinal"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "How can economies of scale contribute to growth?",
+    "options": [
+      "Economies of scale contribute to growth by increasing the price of goods.",
+      "Economies of scale contribute to growth by decreasing the demand for goods.",
+      "Economies of scale hinder growth by increasing production costs.",
+      "Economies of scale contribute to growth by enabling firms, and countries, to produce goods at lower average cost."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "To improve the quality of rental housing within its boundaries, a city proposed an ordinance requiring all new and existing rental housing units to provide at least one full bathroom for each bedroom, plumbing and electrical hookups for a washer and dryer, and a covered parking space. A majority of the owners of existing rental housing in the city opposed the ordinance. They argued that it would dramatically decrease the number of lowincome rental housing units because owners would be unable to raise rents enough to recoup the investment required to comply. Without denying these contentions, the city enacted the ordinance. A plaintiff who owns low-income rental housing has sued the city, claiming only that the ordinance is unconstitutional on its face. Which of the following best states the burden of persuasion in this action?",
+    "options": [
+      "The city must demonstrate that the ordinance is necessary to serve a compelling state interest, because it adversely affects the fundamental right of rental housing owners to use their property in the manner they deem most economically efficient.",
+      "The city must demonstrate that the ordinance is necessary to serve a compelling state interest, because it will have a substantial and disproportionate negative impact on low-income persons.",
+      "The plaintiff must demonstrate that the ordinance is not substantially related to an important state interest, because it requires some owners of rental housing to invest money that they will not be able to recoup from increased rents.",
+      "The plaintiff must demonstrate that there is no rational relationship between the ordinance and any legitimate state interest, because the ordinance regulates economic activity of a type normally presumed to be within state regulatory authority."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "An example of a morally impossible rule would be:",
+    "options": [
+      "lie whenever doing so is necessary to prevent a catastrophe.",
+      "always do whatever brings about the greatest happiness.",
+      "always assert what you don\u2019t think to be the case.",
+      "all of the above."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "How are antibody producing cells stimulated?",
+    "options": [
+      "Interacting with a virus short peptide",
+      "Interacting with a T helper cell.",
+      "Interacting with a plasma cell",
+      "Interacting with a virus infected cell"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "What is the phenotype of a congenital disorder impairing the secretion of leptin?\n",
+    "options": [
+      "Normal energy intake, normal body weight and hyperthyroidism",
+      "Obesity, excess energy intake, normal growth and hypoinsulinaemia",
+      "Obesity, abnormal growth, hypothyroidism, hyperinsulinaemia",
+      "Underweight, abnormal growth, hypothyroidism, hyperinsulinaemia"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "A 3-year-old white girl is brought to the office by her parents for a follow-up visit 48 hours after receiving a 5-TU PPD skin test. The test was done as part of a routine screening for enrollment in a homeless shelter. Physical examination shows 10 mm of induration at the puncture site; the examination is otherwise normal. The parents tell you they are shocked by this finding since both of their skin tests were nonreactive. They say they were born in this country and tell you that their daughter has always been in good health. She has not had much medical care in the past 2 years but she has been healthy. Until moving into this shelter they had been \"squatters\" in vacant buildings. Which of the following is the most appropriate step at this time?",
+    "options": [
+      "Call her previous physician to obtain more history",
+      "Order a chest x-ray",
+      "Order a test for HIV antibody",
+      "Repeat the PPD skin test"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "John Stuart Mill: Each person's happiness is a good to that person, and the general happiness, therefore, a good to the aggregate of all persons.",
+    "options": [
+      "Fallacy of Composition",
+      "Fallacy of Division",
+      "Gambler's Fallacy",
+      "Equivocation"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "A 64-year-old male presents to the emergency room with a bloody nose that has been dripping out his nares for the past 2\u00a0hours. He denies any trauma, recent upper respiratory illness, or history of prior bloody nose. Past medical history is unremarkable, and he takes no medications. He has a blood pressure of 180/90\u00a0mmHg. Examination of the nasal passages reveals that the site of the bleeding is on the septal mucosa of the right naris. The most appropriate next step in management includes",
+    "options": [
+      "anterior packing",
+      "placing an ice compress over the nose",
+      "catheter balloon tamponade",
+      "pinching the nares together for 5 minutes"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "Suppose a commercial bank has deposits of $400,000 and has made loans and investments of $315,000. Assume also that deposits are its only source of reserves. If the required reserve ratio is 20%, how much are its excess reserves?",
+    "options": [
+      "$85,000",
+      "$80,000",
+      "$5,000",
+      "$315,000"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "A property owner owned a large building in the city. The owner leased the building to a shopkeeper for a period of 20 years at a rental of $10,000 per month. The leasehold agreement between property owner and shopkeeper provided that the latter was not permitted \"to assign this lease to anyone except a corporation with an \u0080\u0098A' credit rating from a well- known credit rating company. \" One month later, the shopkeeper leased the premises to a corporation that did not have the required credit rating. The shopkeeper-corporation lease was for a period of five years, with a rental of $15,000 per month, payable by the corporation to the shopkeeper. In addition, the corporation agreed to abide \"by all of the terms and conditions of the lease between the property owner and the shopkeeper. \"One year later, the corporation leased the premises to a non-profit organization for the balance of the term of the corporation \u0080\u0094shopkeeper lease. The non-profit organization took possession of the said premises the same day that the corporation vacated its occupancy. Pursuant to the corporation \u0080\u0094nonprofit leasehold agreement, the latter was obligated to pay a monthly rental of $17,500 directly to the corporation. The non-profit organization has a \u0080\u0098B' credit rating with the well-known credit rating company. Which of the following is not correct regarding the legal relationship(s) of the various parties?",
+    "options": [
+      "Privity of estate and privity of contract exist between the property owner and the shopkeeper.",
+      "Privily of estate and privity of contract exist between the shopkeeper and the corporation.",
+      "Privily of estate, but not privily of contract, exists between property owner and the corporation.",
+      "Neither privily of estate nor privily of contract exists between the property owner and the nonprofit organization."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "How does pure capitalism determine what goods are to be produced?",
+    "options": [
+      "Goods are determined by the quantity of raw materials",
+      "The types and quantities of goods produced are determined by the interaction of consumer sovereignty, producer profits, competition and resource mobility.",
+      "Goods are determined by producer preferences",
+      "Goods are determined by government regulations"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "One drawback of using fiscal policy to close a recessionary gap is that",
+    "options": [
+      "unemployment will rise.",
+      "taxes will have to be raised.",
+      "the equilibrium price level will rise.",
+      "government spending on important programs will have to be cut."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Which of the following best describes the fallacy of poisoning the well?",
+    "options": [
+      "a way of suppressing evidence that eliminates a source of evidence from consideration by claiming the source is flawed, when there is no true relationship between the alleged flaw and the reliability of the source",
+      "arguing that a claim should be accepted based on evidence that is not presented, but asserted to be well known or obvious.",
+      "arguing something should be done based only on evidence that it's been done that way in the past, or should be believed only because it's been believed for a long time.",
+      "reasoning that a claim is true based only on the evidence that it has been made so often."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Describe the coronavirus structure.",
+    "options": [
+      "Club shaped glycoprotein spikes protrude through a lipid bilayer",
+      "An icosahedral structure with an envelope",
+      "An icosahedral large pleomorphic virus",
+      "Large regimented barrel shaped virus"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "Hare claims that all moral arguments are:",
+    "options": [
+      "useless.",
+      "valid.",
+      "ad hominem.",
+      "sound."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "In which of the following the idea of \u2018natural law\u2019 first appeared",
+    "options": [
+      "French Revolution",
+      "American War of Independence",
+      "Roman Law",
+      "Greek Thinking"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "Which of the following describes the straw person fallacy?",
+    "options": [
+      "arguing someone should do something only because it will make him or her better liked",
+      "saying an opposing arguer has taken a position that you can easily defeat, when he or she has not taken that position, then going on to defeat that position and claim to have done significant damage to that arguer's overall argument",
+      "attacking the character or background of an opposing arguer instead of responding to that person's arguments with good evidence and sound reasoni",
+      "responding to an argument with an expression of derision instead of a counter argument"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "A prima facie duty is a characteristic of an act in virtue of which the act:",
+    "options": [
+      "seems to be right, although this might be illusory.",
+      "tends to be right, although this might be outweighed by other considerations.",
+      "is right.",
+      "is the first thing that an agent ought to do, above all else."
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "A 2-year-old boy is brought to the emergency department by his babysitter because of a 30-minute history of respiratory distress. The babysitter reports that she is 15 years old and has cared for the patient on numerous occasions during the past year. The child's mother, who is a single parent, is currently out of town for business but will return later tonight. The babysitter says, \"He has had a runny nose since I started babysitting yesterday, but this afternoon he awoke from a nap with a barking sound and he was breathing real heavy.\" She does not know the child's prior health history, nor does she know if the boy takes any medications on a regular basis. The child looks tired and sits upright on the babysitter's lap. He is obviously comfortable with his caregiver. Vital signs are temperature 38.7\u00b0C (101.7\u00b0F), pulse 110/min, respirations 28/min and labored, and blood pressure 85/50 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 89%. Physical examination discloses inspiratory stridor. Neck is supple, tympanic membranes are normal, and there is a profuse nasal discharge. Examination of the pharynx discloses no abnormalities. Auscultation of the chest discloses equal air entry on both sides and no crackles. The remainder of the examination shows no abnormalities. Treatment with 40% oxygen via venturi mask and intravenous fluids is initiated. Despite continued supplemental oxygen and hydration, the child remains tachypneic and stridorous at rest. Oxygen saturation is now 93%. In addition to administering racemic epinephrine by nebulizer, which of the following is the most appropriate next step?",
+    "options": [
+      "Intravenous aminophylline therapy",
+      "Intravenous antibiotic therapy",
+      "Intubation",
+      "Oral dexamethasone therapy"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "Is extra-territorial abduction a ground for refusal of otherwise lawful jurisdiction by English courts?",
+    "options": [
+      "Such abduction constitutes abuse of process and leads to a stay of proceedings",
+      "Such abduction gives rise to the abductor's liability but does not lead to a stay of proceedings",
+      "The stay of proceedings under such circumstances would prevent the administration of justice in respect of international criminals",
+      "The courts may, but will seldom, stay proceedings in cases of extra-territorial abduction"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "A woman duly executed a will under which she devised her farm to her nephew and bequeathed the residue of her estate to her niece. For 12 years after executing her will, the woman lived on her farm. Then she sold it and used the sales proceeds to purchase a home in the city, in which she lived until she died, never having changed her will. Following the admission of the will to probate, both the nephew and the niece claimed ownership of the home. There is no applicable statute. Who is the owner of the home?",
+    "options": [
+      "The nephew, because of the doctrine of ademption.",
+      "The nephew, because of the doctrine of equitable estoppel.",
+      "The niece, because of the doctrine of lapse.",
+      "The niece, because she is the residuary legatee."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "In an action for malpractice, a plaintiff sued a doctor, claiming that the latter failed to properly diagnose his emphysema condition. The plaintiff contends that he went to the doctor for a medical examination after experiencing chest pains and shortness of breath. However, the doctor found no evidence of the disease and advised him that he was probably suffering from indigestion. Thereafter, the plaintiff was examined by another doctor who discovered that the plaintiff in fact was suffering from a chronic case of emphysema. At trial, the plaintiff calls the other doctor as his first witness. The other doctor proposes to testify the x-rays of the plaintiff's lungs showed that his respiratory organs were marked by distension, which was characteristic of emphysema. Upon objection by the defendant's attorney, the testimony should be",
+    "options": [
+      "admitted, because a doctor is properly qualified as an expert in medical matters.",
+      "admitted, because the other doctor followed accepted medical practice in arriving at his opinion.",
+      "excluded, because his opinion is based upon facts not in evidence.",
+      "excluded, because the x-rays are the best evidence to show the distension of the plaintiff's lungs."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "Which of the following cases best illustrates the 'living instrument principle' used by the European Court of Human Rights?",
+    "options": [
+      "Golder v UK (1978)",
+      "A v UK (2009)",
+      "Goodwin v UK (2002)",
+      "Osman v UK (1998)"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "How are resource and product prices determined in the circularflow model?",
+    "options": [
+      "By the interaction of supply and demand in the market",
+      "By the economic conditions",
+      "By the government regulations",
+      "By the monopoly businesses"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "In 1996, a developer purchased a 100-acre tract located in a northern county in a state. Shortly thereafter, the developer prepared a subdivision plan that created 100 one-acre residential building lots on this tract. In 1997, the subdivision plan was recorded with the county recorder's office. During the next few years, the developer sold 60 residential lots to individual purchasers. Each deed specified that every lot designated on the subdivision plan was to be recorded in the county recorder's office. Each deed also provided the following:\"No house trailer or mobile home shall be built or maintained on any lot within the subdivision. \"In 2003, the developer conveyed the remaining 40 lots to a builder by deed that included language identical to that contained in the first 60 deeds. This deed from the developer to the builder was recorded. By 2008, the builder had sold all of the 40 lots. Each of these deeds identified each lot as being a part of the subdivision, but did not include the clause relating to mobile homes. On January 30, 2009, a buyer, who had purchased one of the residential lots from the builder, placed a mobile home on his property. Which of the following statements is LEAST accurate with respect to the buyer's deed?",
+    "options": [
+      "The covenant prohibiting mobile homes ran with the land as far as the builder, but not as far as the buyer.",
+      "The covenant prohibiting mobile homes could be enforced by any subdivision lot owner.",
+      "The buyer should have had constructive notice of the restriction against mobile homes.",
+      "All subsequent grantees of the builder would be in privity of estate."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "Hume's attack on natural law is founded on his argument that:",
+    "options": [
+      "We cannot objectively know what is morally right or wrong.",
+      "Natural law is backward-looking.",
+      "There is no such thing as a social contract.",
+      "Natural law fails to protect the state against attacks."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "With respect to the kinked demand curve, which of the following is NOT correct?",
+    "options": [
+      "There is no price leader.",
+      "There are relatively equal shares of the market.",
+      "Price is greater than marginal costs.",
+      "The demand curve is of one continuous function."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "lf American agriculture is the most efficient in the world, could the United States still import food?",
+    "options": [
+      "The United States would only import food in times of crisis",
+      "Yes, the United States could still import food",
+      "No, the United States would not need to import food",
+      "The United States would import food only if it had a surplus of other goods"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Suppose a nation is experiencing an annual budget surplus and uses some of this surplus to pay down part of the national debt. One potential side effect of this policy would be",
+    "options": [
+      "increase interest rates and throw the economy into a recession.",
+      "increase interest rates and depreciate the nation's currency.",
+      "decrease interest rates and risk an inflationary period.",
+      "decrease interest rates and throw the economy into a recession."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "According to Hume, justice:",
+    "options": [
+      "has no value.",
+      "has value in part because it is useful to society.",
+      "has value solely because it is useful to society.",
+      "has value solely because it is useful to the agent."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "A young lawyer worked late at her office one night. When she finally decided to go home, she headed to the elevator, got in, and pushed the button for the ground floor. The elevator went all the way to the ground floor, but then just stopped there. The doors did not open. The lawyer tried pushing each of the buttons in the elevator and tried to use the intercom in the elevator to call for help, but nothing on the elevator's control panel seemed to be functioning. The lawyer was afraid that she would be stuck in the elevator all night. She began pounding on the doors and yelling. She started to feel panicked, hyperventilated, lost consciousness, and fell to the floor of the elevator. As she fell, she struck her head on the elevator wall, causing a large bump and bruise on her head. She was unconscious in the elevator for about 30 minutes before a security guard tried to use the elevator and realized it wasn't working. The guard managed to force the doors open and found the lawyer. At that moment, the lawyer regained consciousness. An investigation revealed that the elevator stopped working because it had not been properly maintained. The owner of the building had canceled all service and maintenance work on the elevator in order to save money. If the lawyer sues the building owner for false imprisonment, she will most likely",
+    "options": [
+      "prevail, because she was confined in the elevator for an unreasonably long period of time.",
+      "prevail, because she was injured during her confinement in the elevator.",
+      "not prevail, because the building owner did not intentionally cause the lawyer to be confined.",
+      "not prevail, because the lawyer was unconscious and unaware of what was happening for most of the confinement period."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": " Papadaki argues that",
+    "options": [
+      "sexual objectification is not always wrong.",
+      "sexual objectification involves the total reduction of a person to an object.",
+      "sexual objectification is not explainable in Kantian terms.",
+      "sexual objectification involves the denial of a person's humanity."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "E.F. Schumacher, famous economist, in an article in the Atlantic (April 1979): Fifteen months [after I had advised that rural India should have a technology intermediate between the hoe and the tractor,] an all-India conference on intermediate technology was arranged. (They still didn't like the term [intermediate], so they called it appropriate technology. That's all right: when I come to India and somebody says, \"Oh, Mr. Schumacher, I don't believe in appropriate technology\", I just look him straight in the face and say, \"Oh, that's splendid. Do you believe in inappropriate technology?\")",
+    "options": [
+      "Equivocation",
+      "Inconsistency",
+      "Appeal to Authority",
+      "Prejudicial Language"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Wolf claims that morality:",
+    "options": [
+      "is merely a cultural artifact.",
+      "is not really relevant to our lives.",
+      "provides a comprehensive guide to conduct.",
+      "none of the above."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Why is it that on the whole, international stabilization schemeshave been only moderately successful in their at-temptsto stabilize prices of various products such as wheat, rice, sugar and coffee?",
+    "options": [
+      "Lack of adequate funding",
+      "Lack of participation from major countries",
+      "Inefficiency in the management of the schemes",
+      "Failures due to inappropriate price settings and withdrawal from agreements when free market prices are favorable."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Suppose the market price for corn drops from $1,00per bushel to $.75 per bushel. In reaction to this, the farmers decide to sell one third less corn to the market. Has the supply of corn to the market decrease?",
+    "options": [
+      "The supply of corn to the market has increased.",
+      "No, the supply of corn to the market has not decreased.",
+      "Yes, the supply of corn to the market has decreased.",
+      "The supply of corn to the market remained the same."
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Appeal to beliefs is another name for which of the following fallacies?",
+    "options": [
+      "ad nauseam",
+      "appeal to tradition",
+      "solid slope",
+      "self evident truths"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "A pharmacist was employed by a drug store. A long-time customer of the drug store presented a prescription to the pharmacist for the medication Clinoril, which was prescribed by her physician to treat her arthritic condition. The pharmacist was in a rush that day because of a backlog of prescriptions to fill, and he misread the customer's prescription. He filled her prescription with Clinitest, a caustic substance not for internal use. He labeled the container with the instructions for Clinoril: \"Take one tablet twice a day. \"The customer followed the instructions, consumed the Clinitest, and suffered severe injuries to her stomach and esophagus. If the customer brings a strict liability in tort action against the pharmacist, what is his best defense?",
+    "options": [
+      "It was the cashier and not he who personally received the money for the medication.",
+      "He was not a seller of the product upon whom strict liability may be imposed.",
+      "He exercised reasonable care under the circumstances.",
+      "The drug store was not the manufacturer upon whom ultimate liability falls."
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "Is it possible for many firms to sell exactly the same product, and still be in monopolistic competition?",
+    "options": [
+      "Only if the products are not identical",
+      "Yes, it is entirely possible",
+      "Only possible in perfect competition",
+      "No, it is not possible"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Bill purchased a can of Sipep from the Ajax Minimart. After he finished drinking the Sipep, Bill noticed that the can contained dead insects stuck on the inside bottom of the can. In a strict product liability tort action against Ajax, Bill must prove, among other things, that:",
+    "options": [
+      "Ajax is a merchant selling Sipep.",
+      "Ajax knew or should have known of the defective condition",
+      "Ajax had prior notice of other similar problems with Sipep products.",
+      "Ajax actually placed the dead insects into the can."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "Which fallacy happens when someone argues in favor of a two part proposition, only supports one part of the proposition, then asserts that the entire proposition has been supported.",
+    "options": [
+      "a priori",
+      "Complex proposition",
+      "Extension",
+      "Appeal to ignorance"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "A state statute provides: \"Whenever a person knows or should know that he (or she) is being arrested by a police officer, it is the duty of such person to refrain from using force or any weapon in resisting arrest. \" Violation of the statute is made punishable by fine and/or imprisonment. One morning, there was a bank robbery in the state. That afternoon, a police officer arrested a suspect who he believed was involved in the crime. However, the police officer and the suspect have given different accounts concerning what happened next. According to the police officer, after the suspect was apprehended, he resisted arrest and hit the police officer in the mouth with his fist. The police officer, who was momentarily stunned, pulled out his nightstick and struck the suspect over the head with it. On the other hand, the suspect claimed that after he was arrested, he cursed at the policeman, whereupon the police officer began hitting the suspect with his nightstick. To avoid being hit again, the suspect hit the police officer with his fist, knocking him down. The suspect was charged with assault. The suspect should be found",
+    "options": [
+      "not guilty, if the arrest was unlawful without probable cause and the jury believes the suspect's account.",
+      "not guilty, if the arrest was lawful, provided that the jury believes the suspect's account.",
+      "guilty, if the arrest was lawful, regardless which account the jury believes.",
+      "guilty, if the arrest was unlawful, regardless which account the jury believes."
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "A 33-year-old woman comes to the physician because of a 2-day history of mild nausea, increased urinary urgency and frequency, and constipation. She also has had a 4.5-kg (10-lb) weight loss during the past 2 weeks and a 3-week history of vaginal bleeding. Pelvic examination shows a nodular cervix with an irregular, friable posterior lip, and a rock-hard, irregular, immobile pelvic mass that extends across the pelvis. Examination of biopsy specimens from the cervix and anterior wall of the vagina show well-differentiated keratinizing squamous cell carcinoma. Which of the following best describes the pathogenesis of this patient's disease?",
+    "options": [
+      "Inactivation of cellular p53",
+      "Insertion of viral promotors adjacent to cellular growth factor genes",
+      "Specialized transduction",
+      "Transactivation of cellular growth factor genes by TAX"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "A 42-year-old woman comes to the physician because of an 8-week history of intermittent nausea and abdominal pain that occurs 20 to 30 minutes after eating. The pain extends from the epigastrium to the right upper quadrant and is sometimes felt in the right scapula; it lasts about 30 minutes and is not relieved by antacids. The last episode occurred after she ate a hamburger and french fries. She has not had vomiting. She is currently asymptomatic. She is 165 cm (5 ft 5 in) tall and weighs 104 kg (230 lb); BMI is 38 kg/m2 . Examination shows no other abnormalities. Which of the following is the most appropriate next step in management?",
+    "options": [
+      "Abdominal ultrasonography of the right upper quadrant",
+      "Upper gastrointestinal series with small bowel follow-through",
+      "CT scan of the abdomen",
+      "Endoscopic retrograde cholangiopancreatography"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "The three key intervention strategies according to Professor Shoptaw are:",
+    "options": [
+      "Behavioral intervention, treatment and structural interventions",
+      "Condoms, drug therapy and regulation of commercial sex establishments",
+      "Drug replacement therapy, community intervention and needle exchange",
+      "HIV testing, drug therapy and condom use"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "A landlord was the owner of a two-story dwelling house and leased it completely furnished to a tenant for a 10-year period. Two years after the tenant entered into the leasehold agreement with the landlord, he subleases the house to his cousin. Thereafter, the cousin defaults on the rental payments. If the landlord brings an action to recover the past rent due from the cousin, the landlord will:",
+    "options": [
+      "recover, because pnvity of estate exists between a landlord and sublessee.",
+      "recover, because there is privity of contract between a landlord and sublessee.",
+      "recover, because there is both privity of estate and privity of contract between a landlord and sublessee.",
+      "not recover, because privity of estate does not exist between the landlord and sublessee."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": " Which of the following is, according to the introduction to chapter 8, typically defined as the act or practice of killing or allowing someone to die?",
+    "options": [
+      "murder",
+      "ethical killing",
+      "suicide",
+      "euthanasia"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "A 64-year-old man with non-Hodgkin lymphoma comes to the physician because of a 3-week history of progressive numbness in his hands and feet and weakness in his legs when he stands. He received his third course of chemotherapy 4 weeks ago. Physical examination shows areflexia. Which of the following drugs is the most likely cause of these adverse effects?",
+    "options": [
+      "Doxorubicin",
+      "Fluorouracil",
+      "Methotrexate",
+      "Vincristine"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "We must assume that he is a Communist, because he says that he is not, and we know that Communists are taught always to deny party membership.",
+    "options": [
+      "Argument from Ignorance",
+      "Affirming the Consequent",
+      "Denying the Antecedent",
+      "Begging the Question"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": " Huemer argues that there is no reason to think that the harms of drug use are in an important sense",
+    "options": [
+      "more harmful on average than legally permitted harmful activities.",
+      "differing from the harms of other legally permitted harmful activities.",
+      "more detrimental to a person's character than otherslegally permitted harmful activities.",
+      "All of the above."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Relate the principle of comparative advantage to the concept of opportunity cost.",
+    "options": [
+      "Comparative advantage is when a country can produce a good with a lower opportunity cost than another country.",
+      "Comparative advantage is when a country has more resources than another country.",
+      "Comparative advantage is when a country can produce more goods than another country.",
+      "Comparative advantage is when a country can produce a good faster than another country."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Which of the following is true about the diagnosis of \"osteopenia\" or \"osteoporosis\" in North America and Western Europe\n",
+    "options": [
+      "Women over age 80 with osteopenia have above average bone mineral density for their age",
+      "Fewer than 10% of women over age 50 have osteopenia",
+      "Fewer than 50% of women over age 80 have osteopenia or osteoporosis",
+      "Osteoporosis is defined as a bone density lower than 2.5 standard deviations below the average for age-matched controls."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "Identify the antecedent of the following conditional proposition: The university raises tuition if, and only if, both the governor approves of it and the board of trustees recommends it.",
+    "options": [
+      "The university raises tuition.",
+      "The governor approves of it.",
+      "The board of trustees recommends it.",
+      "None of the above"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Which of the following rules regarding the interconversion of fuels are central to the integration of metabolic pathways?\n",
+    "options": [
+      "Fatty acids can be made from and converted to carbohydrates and amino acids",
+      "Carbohydrates can be made from and converted to amino acids and fatty acids",
+      "Fatty acids can be made from but not converted to carbohydrates and amino acids",
+      "Amino acids can be made from and converted to fatty acids"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "Taurek claims that:",
+    "options": [
+      "the death of two people is always worse than the death of one.",
+      "the death of two people is sometimes less bad than the death of one.",
+      "the death of two people is always exactly as bad as the death of one.",
+      "the notion of the sum of two people\u2019s losses should be rejected."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Good X is exchanged in a competitive market. Which of the following is true if an excise tax is now imposed on the production of good X?",
+    "options": [
+      "If the demand curve is perfectly elastic, the price rises by the amount of the tax.",
+      "The consumer's burden of the tax rises as the demand curve is more elastic.",
+      "Consumer surplus rises as a result of the tax.",
+      "The consumer's burden of the tax rises as the demand curve is less elastic."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "In an automobile accident case, the defendant claimed that the plaintiff was contributorily negligent by driving at an excessive speed. The defendant's attorney calls its first witness, who was standing along the side of the road when the plaintiff's and defendant's cars collided. The defendant's attorney asks the witness: \"Is it a fact that in your estimation, plaintiff was traveling at a speed of 45 m. p. h. in a 35 m. p. h. speed zone at the time of the accident?\" The plaintiff objects. The trial judge should",
+    "options": [
+      "overrule the objection, because the judge may take judicial notice of the speed limit within the jurisdiction.",
+      "overrule the objection if the witness has already been shown to be an experienced driver who was able to estimate the approximate speed of moving vehicles.",
+      "sustain the objection if the witness has not been qualified as an expert witness.",
+      "sustain the objection, because the witness is not an adverse witness."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "I don't understand why everyone thinks they belong in college. After all, everyone knows that when you are intelligent you'll succeed. But so many people that elect to attend college don't have even the most basic intelligence. How do they expect to get anywhere here?",
+    "options": [
+      "Attacking the Person (ad hominem)",
+      "Straw Man",
+      "Denying the Antecedent",
+      "Begging the Question"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": " Which of the following is an example of a duty that corresponds to a right to goods and service?",
+    "options": [
+      "John's duty to return to Mary that car that he borrowed from her",
+      "John's duty to allow Mary to pursue goals that she values",
+      "John's duty to not harm Mary",
+      "John's duty to not commit suicide"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Which of the following would lead to a decrease in the money supply?",
+    "options": [
+      "The FED lowers the discount rate.",
+      "The FED sells government securities in the secondary market.",
+      "The federal government spends less money.",
+      "The FED lowers reserve requirements."
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Which single statement about fat digestion and absorption is correct?\n",
+    "options": [
+      "Absorption of fatty acids in the intestine occurs mainly through FABP and FAT/CD36 transport proteins in the enterocytes of the distal duodenum",
+      "After absorption, medium chain triglycerides (MCT) enter the lymphatic system, whereas long chain triglycerides enter the portal blood system.",
+      "The products of partial digestion of triglycerides (triacylglycerols) can form mixed micelles with pancreatic cholesterol and phospholipids and this increases absorption",
+      "Triglycerides (triacylglycerols) must be emulsified and digested before the fatty acids can be transported"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "What important aspects of the workings of a capitalist economy are not captured in circular flow models?",
+    "options": [
+      "Includes all aspects of a capitalist economy",
+      "Provides detailed explanation of flows",
+      "Omits description of principal elements, does not explain composition of flows, ignores price determination, cannot illustrate fluctuations in employment, output, and income, omits public sector, and does not highlight the effects of the use of money",
+      "Includes the effects of governmental operations and policies"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "A 13-month-old child is brought to the emergency department because of urticaria, swelling of the lips, and difficulty breathing immediately after eating an egg. A potential risk for hypersensitivity reaction is posed by vaccination against which of the following illnesses?",
+    "options": [
+      "Hepatitis",
+      "Influenza",
+      "Pertussis",
+      "Poliomyelitis"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "A use of easy money (expansionary) policy by the Fed could result in which of the following?",
+    "options": [
+      "an increase in net exports",
+      "a decrease in net exports",
+      "an increase in the real interest rate",
+      "an increase in the nominal interest rate"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "A farmer owned a 40-acre tract of farmland located in a small southern town. The farmer leased the property and building thereon to a tenant for a term of seven years commencing on February 15, 2000 and terminating at 12:00 noon on February 15, 2007. The lease contained the following provision:\"Lessee covenants to pay the rent of $5,000 per month on the 15th day of each month and to keep the building situated upon said leased premises in as good repair as it was at the time of said lease until the expiration thereof. \" The lease also contained a provision giving the tenant the option to purchase 10 acres of the tract for $150,000 at the expiration of the lease term. Before the lease was executed, the farmer orally promised the tenant that he (the farmer) would have the 10-acre tract surveyed. During the last year of the lease, the tenant decided to exercise the option to purchase the 10 acres of the tract. Without the farmer's knowledge, the tenant began to build an irrigation ditch across the northern section of the property. When the tenant notified the farmer that he planned to exercise the option, the farmer refused to perform. The farmer also informed the tenant that he never had the 10-acre tract surveyed. If the tenant brings suit for specific performance, which of the following is the farmer's best defense?",
+    "options": [
+      "The option agreement was unenforceable under the parol evidence rule.",
+      "The farmer's failure to survey the 10-acre tract excused him from further obligations under the contract.",
+      "The description of the property was too indefinite to permit the remedy sought.",
+      "The option was unenforceable because it lacked separate consideration."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "Use the concept of capital deepening to explain why econo-mists think that technological progress has been the most important factor for growth for advanced countries.",
+    "options": [
+      "Capital-output ratio has risen",
+      "Technological progress is the factor that has been most instrumental in offsetting diminishing returns.",
+      "Capital-labor ratio has decreased",
+      "New investments have reduced the stock of capital"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": " In the context of Gardiner's article, \"the fragmentation of agency\" refers to what?",
+    "options": [
+      "an agent's inability to acknowledge his or her contribution to climate change",
+      "the fragmentation of the effects of greenhouse gas emissions across generations",
+      "the vast number of individuals and agents who contribute to climate change",
+      "the idea that it's not rational for each individual to restrict his or her own pollution"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "The circular flow model of pure capitalism does not include an entire set of transactions which normally occur in a \"real-life\" economy. What set does it leave out?",
+    "options": [
+      "International trades",
+      "Consumer to consumer transactions",
+      "Intra-business and intra-household transactions",
+      "Government transactions"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Upon graduation from high school, a student enrolled in a college close to where he lived. However, since the student did not have a car, he rode the bus to and from the college each day. The student soon discovered that he was spending up to two hours each day to make the round trip to and from college on the bus, whereas the trip could be made in half that time if he had a car. He decided to buy a car and asked his father to accompany him as he looked for a car to purchase. After visiting a number of car lots, the son finally found a used car to his liking. However, the son only had $2,500 in his bank account, and the price of the car was $10,000. Since the son had not built up a credit history, the car lot was reluctant to sell the car to the son. The father then told the finance manager of the car lot, \"If you will sell the car to my son and for any reason he defaults on the payments, I will pay the balance due. \" The finance manager then approved the deal, which required the son to pay $2,500 down and monthly payments of $500 for 15 months. Six months later, the son defaulted on the payment plan, and the car lot sought recovery from the father without first suing the son. With regard to the father's obligation under his promise to the finance manager, the court would most likely",
+    "options": [
+      "relieve the father of liability, because the car lot failed to first sue the son.",
+      "relieve the father of liability, because the father was never under a duty as a surety.",
+      "not relieve the father of liability, because of the main purpose exception.",
+      "not relieve the father of liability, because parents are responsible for the debts of their children."
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "An increase in the demand for money in the economy could result from",
+    "options": [
+      "a recession.",
+      "a higher price level.",
+      "higher interest rates.",
+      "expected future inflation."
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "A 32-year-old man and his 29-year-old wife come to the office for evaluation for infertility. The wife's gynecologist has reported that her anatomic and physiologic evaluation disclosed no abnormalities and that assessment of potential male factors is needed. The husband is 188 cm (6 ft 3 in) tall with fair skin and little facial hair. He has mild gynecomastia and small, firm testicles. No sperm are seen on semen analysis. Which of the following tests is most likely to establish the underlying cause of this couple's infertility?",
+    "options": [
+      "Karyotype from peripheral leukocytes",
+      "Serum estrogen and testosterone concentrations",
+      "Serum follicle-stimulating hormone and luteinizing hormone concentrations",
+      "Serum prolactin concentration"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "John S. Knight, Detroit Free Press (3 July 1970): ...Capitalism is the economic system in which the means of production and distribution are privately owned and operated for profit. The alternative system is called socialism, the theory of the ownership and operation of the means of production by society, with all members sharing in the work and the products.",
+    "options": [
+      "Begging the Question",
+      "False Dilemma",
+      "Straw Man",
+      "Appeal to Gallery (Provicialism)"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "What is the major difference between naturalism and positivism?",
+    "options": [
+      "On the one hand, naturalism is based on a set of rules that are of universal and objective scope and on the other hand, positivism is based on a structured and coherent legal system that is created by States in light of their interests and desires",
+      "While naturalism serves only the theory human rights law, positivism has a wider and more general scope",
+      "Naturalism concerns the underpinning values of the international society, while positivism the international rules as such",
+      "Naturalism is a school of thought advocated outside of Europe, while positivism is Euro-centric theory"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": " Which of the following is a basic intrinsic good, according to Aquinas's version of natural law theory?",
+    "options": [
+      "human life",
+      "human procreation",
+      "human sociability",
+      "all of the above"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Suppose that we are interested in testing the null hypothesis that a GARCH(2,2) model can be restricted to a process with a constant conditional variance using the likelihood ratio test approach. Which of the following statements are true?",
+    "options": [
+      "The test statistic will follow a chi-squared distribution with 2 degrees of freedom under the null hypothesis",
+      "The value of the log-likelihood function will almost always be bigger for the restricted model than for the unrestricted model",
+      "If the relevant values of the log-likelihood functions are -112.3 and -118.4, the value of the test statistic is 12.2",
+      "The likelihood ratio test compares the slopes of the log-likelihood function at the maximum and at the restricted parameter value."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Under common law principles, which of the following is not correct regarding the duty owed by a possessor of land towards an undiscovered trespasser?",
+    "options": [
+      "No duty for artificial conditions.",
+      "A duty for natural conditions.",
+      "No duty for natural conditions.",
+      "No duty for active operations."
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "A 37-year-old woman with AIDS comes to the physician because of a 1-month history of progressive diarrhea and a 1.8- kg (4-lb) weight loss. During the past week, she has had six large watery stools daily. She is currently receiving triple antiretroviral therapy. She is employed as a flight attendant and works regularly on domestic flights throughout the USA. She also flies to Asia at least once monthly. She is 163 cm (5 ft 4 in) tall and weighs 59 kg (130 lb); BMI is 22 kg/m2 . Her temperature is 37\u00b0C (98.6\u00b0F), pulse is 88/min, and blood pressure is 112/64 mm Hg. The abdomen is scaphoid. The remainder of the examination shows no abnormalities. Her CD4+ T-lymphocyte count is 400/mm3 (Normal\u2265500). Which of the following is the most likely causal organism?",
+    "options": [
+      "Cryptosporidium parvum",
+      "Cytomegalovirus",
+      "Mycobacterium avium-intracellulare complex",
+      "Salmonella enteritidis"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "Why are the industrial producing capital goods and consumer durables typically hit hardest by a recession, insofar as production and employment are concerned?",
+    "options": [
+      "Postponability and monopoly power",
+      "High production cost",
+      "Inadequate infrastructure",
+      "Lack of skilled labor"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Is pure capitalism adaptable to changes in consumer tastes?",
+    "options": [
+      "Pure capitalism adapts to changes in consumer tastes by adjusting production of consumer goods and resource markets.",
+      "Pure capitalism disregards changes in resource markets.",
+      "Pure capitalism does not adjust production based on consumer tastes.",
+      "Pure capitalism is immune to changes in consumer tastes."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "What is the 'equitable result' in the law and practice of maritime delimitation?",
+    "options": [
+      "It is the only method of delimitation that international courts and tribunals follow",
+      "An equitable result is what a judge or the arbitrator would decide ex aequo et bono, i.e. upon their discretion and in light of what they consider as fair and equitable in a delimitation case",
+      "It is the end result that all delimitations of areas of continental shelf and EEZ should achieve, after, however, drawing a provisional 'equidistance line' and adjusting the zone in the light of the relevant circumstances and the proportionality test.",
+      "Achieving an equitable result is an old method of delimitation which is currently not applicable"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": " Which of the following potentially morally relevant differences between Fred's behavior and the behavior of the consumers of factory-raised meat does Norcross not discuss?",
+    "options": [
+      "Fred's behavior involves the suffering of puppies, whereas the behavior of meat-eaters \"merely\" involves the suffering of chickens, pigs, cows, calves, sheep, and the like.",
+      "The suffering of the puppies is necessary for gustatory pleasure, whereas the suffering of animals on factory farms is simply a by-product of the conditions dictated by economic considerations.",
+      "Fred could prevent the suffering of the puppies, whereas meat-eaters can't prevent the suffering of the animals they consume.",
+      "none of the above"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": " Use the following key to translate the given formula of PL to natural, English sentences.\nA: Marina reads a Percy Jackson book.\nB: Izzy plays Minecraft.\nC: Emily stops working.\nD: Russell makes dinner.\nE: Ashleigh stops by.\n(~B \u2022 E) \u2283 D",
+    "options": [
+      "If it's not the case that both Izzy plays Minecraft and Ashleigh stops by then Russell makes dinner.",
+      "If it's both not the case that Izzy plays Minecraft and Ashleigh stops by then Russell makes dinner.",
+      "Izzy playing Minecraft and Ashleigh stopping by entails that Russell makes dinner.",
+      "Russell's making dinner is a sufficient condition for Izzy not playing Minecraft and Ashleigh stopping by."
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Which of the following statements is INCORRECT concerning the classical hypothesis testing framework?",
+    "options": [
+      "If the null hypothesis is rejected, the alternative is accepted",
+      "The null hypothesis is the statement being tested while the alternative encompasses the remaining outcomes of interest",
+      "The test of significance and confidence interval approaches will always give the same conclusions",
+      "Hypothesis tests are used to make inferences about the population parameters."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": " According to Lukianoff and Haidt, the recent trend to uncover microaggressions encourages",
+    "options": [
+      "students to confabulate reasons.",
+      "the pursuit of justice by marking out racism, sexism, and classism.",
+      "labeling, by assigning global negative traits to persons.",
+      "universities to bear overly burdensome legal obligations."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "A fortune teller told fortunes by means of Tarot cards. An elderly woman, who was worried about her failing health, had heard that the fortuneteller was clairvoyant and could see into the future. Consequently, the woman decided to see the fortuneteller in order to have her Tarot cards read. As the fortuneteller was telling the woman her fortune, she suddenly said, \"I have a vision. If you give me $25,000 tomorrow, you will live to be 100 years old. \" The woman, who was 72 years of age, believed the fortuneteller and gave her the money the next day. The following week, the woman's physician informed her that she had a serious heart disease and he didn't expect her to live for more than a year or two. If the woman asserts a claim against the fortuneteller based on deceit, the plaintiff should",
+    "options": [
+      "prevail, because she relied to her detriment on the fortune teller's foretelling.",
+      "prevail, if the fortuneteller did not honestly believe that the woman would live to be 100 years of age.",
+      "not prevail, unless there was a fiduciary relationship between the parties.",
+      "not prevail, unless the fortuneteller warranted the truth as believed."
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "So, how long have you been beating your wife?",
+    "options": [
+      "Attacking the Person (ad hominem)",
+      "False Dilemma",
+      "Prejudicial Language",
+      "Appeal to Force"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Most surveillance systems use which of the following study designs?",
+    "options": [
+      "Cohort",
+      "Serial cross-sectional",
+      "Mortality",
+      "Syndromic"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "Suppose that there are only two goods: x and y. Which of the following is NOT correct?",
+    "options": [
+      "One can have comparative advantage in producing both goods.",
+      "One can have both an absolute advantage and a comparative advantage in producing x.",
+      "One can have absolute advantage and no comparative advantage in producing x.",
+      "One can have comparative advantage and no absolute advantage in producing x."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": " Which of the following is a value that Arthur believes is more fundamental than rights and desert?",
+    "options": [
+      "justice",
+      "fairness",
+      "respect for other persons",
+      "all of the above"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "An employer and employee had an employment contract that contained an \"at will\" provision allowing either party to terminate the employment upon reasonable notice. One year later, the employer had the employee sign a covenant not to compete for a two-year period after termination. Two years later, the employee quit and went to work for a competitor company. The prior employer sued, asking for a preliminary injunction to enforce the covenant. The employee argued that the covenant was invalid because no consideration passed to her \u0080\u0093 she could be fired at any time and did not receive anything for signing. The employer argued that it provided her with continued employment when it did not have to do so. Does the employer have a legal right to enforce the covenant?",
+    "options": [
+      "Yes, because the employer's providing of continued employment for a substantial period after signing the covenant is adequate consideration.",
+      "Yes, because modification of an existing contract does not require consideration.",
+      "Yes, because the courts never question the adequacy of consideration in an agreement.",
+      "No, because there was inadequate consideration for the covenant."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "A 33-year-old man undergoes a radical thyroidectomy for thyroid cancer. During the operation, moderate hemorrhaging requires ligation of several vessels in the left side of the neck. Postoperatively, serum studies show a calcium concentration of 7.5 mg/dL, albumin concentration of 4 g/dL, and parathyroid hormone concentration of 200 pg/mL. Damage to which of the following vessels caused the findings in this patient?",
+    "options": [
+      "Branch of the costocervical trunk",
+      "Branch of the external carotid artery",
+      "Branch of the thyrocervical trunk",
+      "Tributary of the internal jugular vein"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "All things that are spoiled are inedible. Timothy is spoiled. So, Timothy is inedible.",
+    "options": [
+      "Equivocation",
+      "Attacking the Person (ad hominem)",
+      "Fallacy of Division",
+      "Questionable Cause"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Which statement about absorption from the gastro-intestinal (GI) tract is most correct?\n",
+    "options": [
+      "The absorption of glucose is associated with sodium uptake.",
+      "Fructose is absorbed more rapidly than glucose.",
+      "Galactose and fructose are absorbed by the same transporter at the brush border membrane.",
+      "Most water absorption along the GI tract occurs in the colon."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "Give the significance of the \"most favored nation clause\" in the Gatt agreement.",
+    "options": [
+      "The 'most favored nation clause' is the agreement that no member of GATT will be treated worse than the 'most favored nation', meaning that no member country's imports can be charged a higher tariff than any other member country, unless special exceptions have been made.",
+      "It is a clause that allows for the imposition of high tariffs on certain goods",
+      "It is a provision that allows for the exemption of certain countries from tariff reduction",
+      "It is an agreement that allows for preferential treatment of a particular country"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Fernandez is planning to attend an auction of the assets of Cross & Black, one of his major competitors who is liquidating. In the conduct of the auction, which of the following rules applies?",
+    "options": [
+      "Such a sale is without reserve unless the goods are explicitly put up with reserve.",
+      "A bidder may retract his bid at any time until the falling of the hammer.",
+      "The retraction of a bid by a bidder revives the previous bid.",
+      "If the auction is without reserve, the auctioneer can withdraw the article at any time prior to the fall of the hammer."
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "A 52-year-old woman has had dyspnea and hemoptysis for 1 month. She has a history of rheumatic fever as a child and has had a cardiac murmur since early adulthood. Her temperature is 36.7\u00b0C (98\u00b0F), pulse is 130/min and irregularly irregular, respirations are 20/min, and blood pressure is 98/60 mm Hg. Jugular venous pressure is not increased. Bilateral crackles are heard at the lung bases. There is an opening snap followed by a low-pitched diastolic murmur at the third left intercostal space. An x-ray of the chest shows left atrial enlargement, a straight left cardiac border, and pulmonary venous engorgement. Which of the following is the most likely explanation for these findings?",
+    "options": [
+      "Aortic valve insufficiency",
+      "Aortic valve stenosis",
+      "Mitral valve insufficiency",
+      "Mitral valve stenosis"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "Briefly enumerate two reasons why the supply curves of the farmersare relatively inelastic.",
+    "options": [
+      "(a) High price of raw materials. (b) Demand is always high.",
+      "(a) Farmers have complete control over price. (b) Costs decrease with increased production.",
+      "(a) Farmers are often subsidized by the government. (b) Costs increase with decreased production.",
+      "(a) Intensified effort to increase output when price is low. (b) Many costs occur regardless of production quantity."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Which of the following purposes does the 'internal point of view' play in Hart's concept of law?",
+    "options": [
+      "It distinguishes social rules from mere group habits.",
+      "It defines the judicial function.",
+      "It illustrates the authority of the legislature.",
+      "It stresses the relationship between law and justice."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "Assume this question takes place in a \"lien theory\" state. A woman and her co-habiting partner share a property as joint tenants with the right of survivorship. He has run up debts that he did not tell her about, and so he uses his interest in the property to secretly get a mortgage from the bank. When he dies, the bank attempts to execute on the mortgage. Can it do so? Apply the majority view on this issue.",
+    "options": [
+      "No, the mortgage lien could not destroy the joint tenancy, and when the partner dies, the property passes by operation of law to the surviving joint tenant.",
+      "No, although the mortgage destroyed the joint tenancy, the bank has to get a deed of trust in order to execute on jointly owned property.",
+      "Yes, the bank got title to the property by virtue of the mortgage, which destroyed the joint tenancy, and it can execute on its lien.",
+      "Yes, the mortgage was the equivalent of a deed of trust and the joint tenancy was severed by the mortgage lien, giving the bank unfettered legal authority to execute on its mortgage."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "Which of the following will be increased in vitamin K deficiency\n",
+    "options": [
+      "The plasma concentration of calcitonin",
+      "The plasma concentration of prothrombin",
+      "The time for blood to clot",
+      "Haemolysis due to oxidative damage to red cell membranes"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "A 5-year-old girl is brought to the physician by her parents for evaluation of recurrent injuries. Her parents say that she started walking at the age of 14 months and since then has always seemed clumsier and had more injuries than other children. She has had increasingly frequent chest pain with exertion since starting a soccer program 3 months ago. She usually has pain or swelling of her knees or ankles after practice. She has been wearing glasses for 2 years. Her 16-year-old brother has required two operations for a severe rotator cuff injury he sustained while taking a shower, and she has a maternal cousin who died of a ruptured aortic aneurysm at the age of 26 years. Today, the patient walks with a limp. She is at the 99th percentile for height and 50th percentile for weight. A midsystolic click is heard at the apex. The left ankle is swollen and tender; range of motion is limited by pain. The joints of the upper and lower extremities are hypermobile, including 25 degrees of genu recurvatum, thumbs that may be extended to touch the forearms, and flexibility at the waist, with palms easily touching the floor with straight knees. Which of the following is the most appropriate next step in diagnosis?",
+    "options": [
+      "Skeletal survey",
+      "Echocardiography",
+      "Bone scan",
+      "MRI of the shoulder"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "How is the use of land a cost, not counting the rent onehas topay to use the land?",
+    "options": [
+      "The cost of land is the price one pays to purchase it.",
+      "The cost of land refers to the taxes one has to pay for owning it.",
+      "The cost of land is the cost of maintaining it.",
+      "The use of land also constitutes a cost, in this sense an implicit cost, that is the money payments which the land resource could have earned in their best alternative employments."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Tariffs and quotas",
+    "options": [
+      "result in lower domestic prices.",
+      "sometimes raise and sometimes lower the amount of the product sold domestically.",
+      "lower the amount of the product sold domestically.",
+      "raise the amount of the product sold domestically."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Which of the following is not correct for the perfectly competitive firm, in the long run?",
+    "options": [
+      "price = marginal revenue.",
+      "price = minimum average cost.",
+      "price = minimum average variable cost.",
+      "price = marginal cost."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Which of the following drugs inhibit herpes viruses?",
+    "options": [
+      "Amantadine",
+      "Acyclovir",
+      "Oseltamivir",
+      "Azidothymidine"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "Endurance type exercise training modulates fuel storage and substrate use. Adaptive responses include:\n",
+    "options": [
+      "lowering intramuscular lipid storage",
+      "Increasing liver glycogen content",
+      "Increasing muscle glycogen use during exercise",
+      "Increasing intramuscular lipid use during exercise"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "The appropriate fiscal policy to remedy a recession",
+    "options": [
+      "calls for the federal government to run a deficit.",
+      "calls for the federal government to run a surplus.",
+      "is increased taxes and government spending.",
+      "is decreased government spending and taxes."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Which disease do polyomaviruses predominantly cause?",
+    "options": [
+      "Tumours",
+      "Brain pathology",
+      "No disease at all",
+      "Kidney infections"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "A 65-year-old man who is quadriplegic as a result of multiple sclerosis is hospitalized for treatment of left lower lobe pneumonia. His temperature is 38.1\u00b0C (100.5\u00b0F), pulse is 95/min, respirations are 12/min, and blood pressure is 120/80 mm Hg. He appears malnourished. Rhonchi are heard at the left lower lobe of the lung on auscultation. Examination of the heart, lymph nodes, abdomen, and extremities shows no abnormalities. There is a 1-cm area of erythema over the sacrum with intact skin and no induration. Neurologic examination shows quadriparesis. Test of the stool for occult blood is negative. Which of the following is the most effective intervention for this patient's skin lesion?",
+    "options": [
+      "Frequent turning",
+      "Use of wet to dry dressings",
+      "Whirlpool therapy",
+      "Broad-spectrum antibiotic therapy"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "A 67-year-old woman comes to the physician because of easy bruising for 4 months. She has a history of lung cancer treated with radiation therapy 6 months ago. She has a 2-year history of hypertension treated with a thiazide diuretic and an angiotensin-converting enzyme (ACE) inhibitor. Examination, including neurologic examination, shows no abnormalities except for multiple ecchymoses. Her hemoglobin concentration is 13 g/dL, leukocyte count is 5000/mm3 , and platelet count is 35,000/mm3 . A serum antiplatelet antibody assay is negative. Which of the following is the most appropriate next step in diagnosis?",
+    "options": [
+      "CT scan of the abdomen",
+      "CT scan of the chest",
+      "Bronchoscopy",
+      "Bone marrow aspiration"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "A 19-year-old college student comes to the physician because of vaginal irritation and pain with urination for 5 days. Two weeks ago, she had streptococcal pharyngitis treated with amoxicillin. She has been sexually active with two partners over the past year; she uses condoms for contraception. Her last menstrual period was 1 week ago. Her temperature is 37.2\u00b0C (99\u00b0F), and blood pressure is 90/60 mm Hg. Pelvic examination shows erythema of the vulva and vagina and a thick white vaginal discharge. The pH of the discharge is 4. Which of the following is the most likely cause of these findings?",
+    "options": [
+      "Bacterial vaginosis",
+      "Candidiasis",
+      "Chlamydia trachomatis infection",
+      "Escherichia coli infection"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "A defendant was driving his new sports car at a high rate of speed on a busy city street in the middle of the day. A pedestrian was struck by the defendant's car as she was crossing the street and was seriously injured. A criminal complaint was filed against the defendant and, at trial, he testified that he did not intend to injure anyone, but admitted that he was indifferent as to the consequences of driving recklessly. Based on the defendant's actions and testimony, he should be found guilty of",
+    "options": [
+      "attempted murder.",
+      "attempted manslaughter.",
+      "assault with the intent to cause serious bodily injury.",
+      "battery."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "A 78-year-old male presents to the office\u00a0with the complaint of severe neck pain. He rates the pain as a 7\u00a0on a scale of 0 to 10 scale. He denies any trauma but reports that he had been doing a lot of painting over the past week. He denies any radicular pain or numbness. Cervical range of motion is moderately limited in all fields. He is treated with articulatory springing technique. Four hours later the physician receives a call from the local emergency department, where the patient presented confused, nauseated, and vertiginous. The physician may be found liable if",
+    "options": [
+      "the motion barrier was articulated more than 3 times",
+      "the motion barrier was met with a vectored force from the direction of ease",
+      "the neck was treated in simultaneous hyperrotation and extension",
+      "the patient was previously treated for osteoarthritis of the cervical spine"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": " Critics of speech codes adopted in the 1980s and early 1990s argued that these codes violated which of the following principles?",
+    "options": [
+      "freedom of speech",
+      "freedom of the press",
+      "right to bear arms",
+      "right to privacy"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "A buyer filed a lawsuit against a seller based on a written contract allegedly executed at the time of the sale of the seller's hot dog stand to the buyer. Under the terms of the contract, the seller agreed not to open a hot dog stand for a period of two years within a distance of two miles of the old hot dog stand, now owned by the buyer. The buyer alleged in his complaint that the seller violated the contract by opening a hot dog stand one-half mile from the old location. The original contract was lost prior to trial. At trial, the buyer wants to introduce a duplicate carbon copy of the written contract. The seller objects as to the authenticity of the original written contract. The copy is",
+    "options": [
+      "inadmissible, because the seller contests the authenticity of the written contract.",
+      "inadmissible, because the best evidence rule requires that the original contract always be used as evidence.",
+      "admissible, because the duplicate is a carbon copy.",
+      "admissible, because the original contract was lost."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "In Osman v UK (1998), the European Court laid down a test, which can be used to apply a general positive obligation on a state. Which of the following statements is not part of the Osman test?",
+    "options": [
+      "The risk must emanate from a state agent",
+      "If a real and imminent risk (of death/harm)",
+      "A state should take reasonable steps to prevent death/harm occurring",
+      "A state knows or ought to have known"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "A 32-year-old man who is a jackhammer operator comes to the physician because of pain and swelling of his right arm for 3 days. The symptoms are moderately exacerbated by exertion. Examination of the right upper extremity shows erythema and moderate edema. Capillary refill time is less than 3 seconds. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Axillary-subclavian venous thrombosis",
+      "Deep venous valvular insufficiency",
+      "Superficial thrombophlebitis of the basilic vein",
+      "Superior vena cava syndrome"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "Suppose transfer payments are greater than Social Security contributions corporate taxes and retained earnings combined. In that case",
+    "options": [
+      "NDP will be greater than GDP.",
+      "NI will be greater than GDP.",
+      "PI will be greater than NI.",
+      "DPI will be greater than PI."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Describe each of the following situations in terms of de-mand elasticity. a) You have a cold and the only medicine that can help you used to cost $1.50 per bottle but now costs $20.00 a bottle. You buy it anyway. b) At $80 per ticket you would buy 2 tickets, but scalpers want $100 a seat for the Stanley cup finals, so you stay at home and watch the games on television. c) Chocolate bars double in price overnight from 10$ to 20C, yet you buy the same number as before.",
+    "options": [
+      "a) Elastic demand, b) Inelastic demand, c) Elastic demand",
+      "a) Elastic demand, b) Elastic demand, c) Inelastic demand",
+      "a) Inelastic demand, b) Elastic demand, c) Inelastic demand",
+      "a) Inelastic demand, b) Inelastic demand, c) Elastic demand"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": " Where did people believe in the goddess known as Holy Mother of Mount Fairy Peach?",
+    "options": [
+      "China",
+      "Silla",
+      "Goguryeo",
+      "Joseon"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Osgood is the record owner of Desertacre, a 100- acre tract of farmland in California's Coachella Valley. Osgood inherited the property from his father and farmed the land until 2006, when he reached the age of 70. He then decided to retire and move to Scottsdale, Arizona. At that time, Osgood conveyed Desertacre to Cutler \"for his use during his natural life. \"After taking possession of the property, Cutler executed a mortgage on Desertacre in the amount of $100,000. In 2009, Osgood died and in his will, the testator devised Desertacre to his son, Desmond, with remainder to Deirdre. The will provided that Desmond and Deirdre took Desertacre \"subject to Cutler's mortgage. \"At the time of Osgood's death, Desertacre had a market value of $300,000. When Desmond learned of the devise, he was hesitant about taking title to Desertacre because he did not want to incur any indebtedness. Assume that Culter is still alive and in possession of the tract. With respect to the mortgage, Desmond will be",
+    "options": [
+      "liable for the mortgage, because he is the devisee under the terms of Osgood's will.",
+      "liable for the mortgage, because the property was devised subject to the mortgage.",
+      "not liable, because there was no assumption of the mortgage.",
+      "not liable, because he did not personally grant the mortgage."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "If there were a leverage effect in practice, what would be the shape of the news impact curve for as model that accounted for that leverage?",
+    "options": [
+      "It would rise more quickly for negative disturbances than for positive ones of the same magnitude",
+      "It would be symmetrical about zero",
+      "It would rise less quickly for negative disturbances than for positive ones of the same magnitude",
+      "It would be zero for all positive disturbances"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "What is the function of \"standard-setting in human rights diplomacy?",
+    "options": [
+      "Standard-setting means putting forward binding legal standards",
+      "Standard-setting means merely proposing binding legal standards",
+      "Standard-setting means putting forward non-binding legal standards",
+      "Standard-setting means setting certain standards of conduct in human rights treaties"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "Which of the following is true about dietary calcium:\n",
+    "options": [
+      "Typical calcium intake in most adults is between 0.5mg and 2.0mg per day",
+      "Activated Vitamin D decreases absorption of dietary calcium",
+      "There is clear evidence that people who consume more than the average amount of calcium have a lower risk of bone fractures.",
+      "Absorption efficiency is inversely related to calcium intake, so that a higher proportion is absorbed when calcium intake is low"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "A 31-year-old man with a 5-year history of HIV infection comes to the office because of anal pain, particularly on defecation, for the past 4 months. He says he has seen spots of blood on the toilet tissue but has not had any other noticeable bleeding. He reports no change in bowel habits and has not had recent fever, chills, or rectal drainage. He says he and his partner engage in anal-receptive intercourse. His most recent CD4+ T-lymphocyte count 2 months ago was 350/mm3 ; HIV viral load at that time was undetectable. He currently is being treated with antiretroviral therapy. He has had no opportunistic infections. Medical history is also significant for syphilis and genital herpes treated with penicillin and acyclovir, respectively. He does not smoke cigarettes or drink alcoholic beverages. Vital signs are normal. Physical examination shows small bilateral inguinal lymph nodes, but respiratory, cardiac, and abdominal examinations disclose no abnormalities. There are several tender fleshy lesions around the perianal area. Rectal examination produces tenderness, but there is no rectal discharge. Test of the stool for occult blood is trace positive. Which of the following is the most appropriate pharmacotherapy at this time?",
+    "options": [
+      "Acyclovir",
+      "Imiquimod",
+      "Levofloxacin",
+      "Metronidazole"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "Is the jurisdiction of international tribunals regulated by the same principles applicable to national courts?",
+    "options": [
+      "The jurisdictional principles applicable to national courts are also common to international tribunals",
+      "The jurisdiction of all international tribunals is regulated by the UN Security Council",
+      "International tribunals share some, but not all, of the jurisdictional principles applicable to national courts",
+      "The jurisdiction of international tribunals is dictated solely by their founding treaties"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "It's silly to pass laws against discrimination, since it is obvious that we can't live without it. We discriminate between pleasant and unpleasant tastes in selecting our food, between pleasant and unpleasant sounds in selecting our music, between harmonious and unharmonious colors in decorating our homes, between interesting and uninteresting people in choosing our friends, and so on. We can't live without discriminating.",
+    "options": [
+      "Prejudicial Language",
+      "Equivocation",
+      "Inconsistency",
+      "Straw Man"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Which of the following describes the fallacy of appeal to popularity?",
+    "options": [
+      "saying someone should do something because he or she dislikes someone else",
+      "saying someone should do something to be better liked by others",
+      "saying someone should do something because it will make him or her feel good",
+      "saying someone should accept an idea because of the source of the idea"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Which of the following fallacies happens when someone concludes that a legitimate generalization necessarily applies to a particular case?",
+    "options": [
+      "False dilemma",
+      "Circular reasoning",
+      "Accident",
+      "Bifurcation"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": " Lukianoff and Haidt argue that American colleges and universities now encourage",
+    "options": [
+      "emotional reasoning.",
+      "critical reasoning.",
+      "reflective reasoning.",
+      "all of the above."
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Is the achievement of full employment sufficient for the maintenance of growth?",
+    "options": [
+      "Growth only depends on full employment",
+      "Yes, full employment guarantees growth",
+      "Full employment always leads to increasing per capita output",
+      "No, full employment is not sufficient for the maintenance of growth"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": " According to Lukianoff and Haidt, institutionalizing vindictive protectiveness will",
+    "options": [
+      "encourage students to think pathologically.",
+      "ill-prepare them for the workforce.",
+      "harm their ability to learn.",
+      "all of the above."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "A corporation under the authority of a state statute sued to have condemned 1,000 acres of forested land owned by a timber company, which it planned to develop for use as a state recreational area. After a hearing, the state court ordered possession of the land surrendered to the corporation, upon deposit in court of a sum deemed adequate to cover damages that might be awarded. The timber company immediately commenced an action to enjoin the court-ordered sale of their property. Which of the following would be the best ground for upholding the state court's order?",
+    "options": [
+      "The power of eminent domain may only be delegated directly to a private enterprise for a public related use or activity.",
+      "The power of eminent domain may only be delegated to a public authority through a legislative determination.",
+      "The injured party has not proved such irreparable injury to use as amounts to a \"taking. \"",
+      "The Fifth Amendment's power of eminent domain incorporated by the Fourteenth Amendment as applicable to the states does not require that payment be made prior to condemnation of the property."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "A resident announced his candidacy for state representative. A law in the state requires new political entrants (regardless of party affiliation) to obtain three times the number of signatures as other candidates who have run for office previously. The resident, however, failed to obtain the necessary number of authenticating signatures to have his name placed on the ballot. The resident filed a complaint in federal district court alleging the unconstitutionality of the authenticating requirement. Which of the following, if established, is the state's strongest argument for sustaining the validity of the authenticating requirement?",
+    "options": [
+      "The resident's petition contained a large number of false signatures.",
+      "A similar authenticating statute was held to be constitutional in another state the previous year.",
+      "The authenticating requirement was necessary to further a compelling state interest.",
+      "Two other candidates had successfully petitioned to have their names included on the ballot."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": " According to Sinnott-Armstrong, the fact your government morally ought to do something",
+    "options": [
+      "does not prove that government officials ought to promote it.",
+      "does not prove that you ought to do it.",
+      "proves that you ought not to do it.",
+      "proves that you ought to do it, too."
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "How does freedom of choice fit in the capitalist framework?",
+    "options": [
+      "Capitalism restricts freedom of choice",
+      "Freedom of choice opposes the principles of capitalism",
+      "Freedom of choice is an essential feature of capitalism",
+      "Freedom of choice is irrelevant in capitalism"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "A 22-year-old woman comes to the office because of urticaria. This is her first episode of urticaria and it has occurred and then resolved several times in the past week. The history and physical examination disclose no abnormalities. Which of the following is the most appropriate course of action?",
+    "options": [
+      "Determine the serum IgE concentration",
+      "Determine the total eosinophil count",
+      "Refer her to an allergist",
+      "Treat the symptoms"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "Four days after undergoing open reduction and internal fixation of a fracture of the right femur sustained in a motor vehicle collision, a 47-year-old man continues to have agitation and confusion despite treatment with haloperidol. He has mild hypertension. Other medications include acetaminophen, atenolol, and prophylactic subcutaneous heparin. His temperature is 37.2\u00b0C (99\u00b0F), pulse is 98/min, respirations are 24/min, and blood pressure is 168/98 mm Hg. During the examination, he is uncooperative and refuses to answer questions. Neurologic examination shows tremulousness and no focal findings. He is oriented to person but not to place or time. A CT scan of the head shows no abnormalities. Which of the following is the most likely cause of these findings?",
+    "options": [
+      "Adverse effect of medication",
+      "Alcohol withdrawal",
+      "Fat emboli",
+      "Sepsis"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "A man owned land along the south side of a highway. To the south of the man's land was a lot owned by a woman who lived on it in a house. Five years ago the man conveyed a right-of-way easement over his land to the woman because it provided a more direct route between her house and the highway. The easement was evidenced by a clearly marked path. The document granting the easement was promptly recorded. Three years ago, the woman conveyed her house to the man. The man never took actual possession of the house. Two years ago, the man conveyed the house to a purchaser by a warranty deed. Two months after the purchaser moved into the house, a neighbor informed him about the easement. He then began using the path that had been marked on the man's land. When the man noticed the purchaser using the path, he erected a barricade on his land that effectively prevented the purchaser from using the path. The purchaser has sued the man, claiming that he has an easement over the man's land. Who is likely to prevail?",
+    "options": [
+      "The man, because the easement was extinguished.",
+      "The man, because the purchaser did not have actual notice of the easement at the time of acquisition.",
+      "The purchaser, because he purchased the house by warranty deed.",
+      "The purchaser, because the easement was of public record when he acquired the house."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "Common stock or bonds are considered more liquid assets thanan automobile. What would be the reason for this?",
+    "options": [
+      "Automobiles depreciate faster",
+      "Stocks and bonds are physically smaller",
+      "Automobiles are more expensive",
+      "Highly efficient and fast markets exist for stocks and bonds"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": " Kant's moral theory is a version of",
+    "options": [
+      "consequentialism.",
+      "virtue ethics.",
+      "utilitarianism.",
+      "none of the above"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "A debtor owed a creditor $750 on an old debt. On July 1, the debt was barred by the statute of limitations. On August 1, the debtor ran into the creditor at a party and overheard him telling mutual friends that the debtor \"is a deadbeat who weiches on his debts. \" Feeling pangs of guilt, the debtor approached the creditor and orally agreed to pay him the $750 debt on September 1. The debtor refused to pay the creditor the $750 as promised on September 1St. If the creditor sues the debtor to recover the $750 debt, which would provide the strongest grounds that the debtor's oral promise was unenforceable?",
+    "options": [
+      "It was not supported by new consideration.",
+      "It was violative of the statute of frauds.",
+      "The debt was already barred by the statute of limitations.",
+      "There was no mutuality of obligation."
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "If there is a monopolistically competitive industry with firms enjoying above-normal profits, what will probably happen to costs as other firms enter the industry?",
+    "options": [
+      "costs will tend to rise",
+      "costs will decrease",
+      "costs are not affected by entry of new firms",
+      "costs will remain the same"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Higher levels of consumer wealth and optimism would likely have which of the following changes in the market for loanable funds? MARKET FOR LOANABLE FUNDS \u00a0\u00a0\u00a0 INTEREST RATE",
+    "options": [
+      "Increase in supply \u00a0\u00a0\u00a0 Rising",
+      "Increase in demand \u00a0\u00a0\u00a0 Buying Rising",
+      "Decrease in demand \u00a0\u00a0\u00a0 Falling",
+      "Decrease in supply \u00a0\u00a0\u00a0 Rising"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "How are new polyomaviruses detailed",
+    "options": [
+      "Shot gun sequencing",
+      "Cultivation in human neural cells",
+      "Deep pyro sequencing (NGS)",
+      "Monoclonal antibody techniques"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "A 52-year-old woman comes to the emergency department because of a 1-week history of low-grade fever and increasing abdominal cramps that are exacerbated by bowel movements. She began a course of amoxicillin-clavulanate and metronidazole 2 days ago but has had no relief of her symptoms. She has had intermittent constipation for the past 12 years. She has not had nausea, vomiting, urinary symptoms, or bloody stools. She has a 3-year history of hypertension. She underwent total abdominal hysterectomy and bilateral salpingo-oophorectomy 5 years ago because of leiomyomata uteri. She is 165 cm (5 ft 5 in) tall and weighs 86 kg (190 lb); BMI is 32 kg/m2 . Her temperature is 38.1\u00b0C (100.6\u00b0F), pulse is 75/min, and blood pressure is 150/80 mm Hg. The lungs are clear to auscultation. Cardiac examination shows no abnormalities. The abdomen is soft, and there is tenderness to palpation of the left lower quadrant with guarding but no rebound. Bowel sounds are normal. The stool is brown, and test for occult blood is negative. Her hemoglobin concentration is 14.5 g/dL, leukocyte count is 15,000/mm3 , and platelet count is 280,000/mm3 ; serum studies and urinalysis show no abnormalities. Which of the following is the most appropriate next step in diagnosis?",
+    "options": [
+      "Test of the stool for Clostridium difficile toxin",
+      "Endoscopic retrograde cholangiopancreatography",
+      "Pelvic ultrasonography",
+      "CT scan of the abdomen with contrast"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "\"Allowing the prices of goods to rise in periods when none of the good is being produced is immoral, because the higher prices do not induce a larger output. They merely give unwarranted profits to those who are lucky enough to own the goods. Either prices should be prevented from rising or the government should take over ownership in order to prevent unjust enrichment quotas.\"Do you agree withthis analysis ?If so, why?If not, why not?",
+    "options": [
+      "Disagree due to higher price permitting a re-allocation of existing goods",
+      "Agree due to unjust enrichment",
+      "Agree due to unwarranted profits",
+      "Disagree due to government interference"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "A man outraged by the recent church decision to clear a famous philosopher of charges of heresy, decided to present a lecture, open to the public, disproving the philosopher's theories. A state statute provides that: \"state universities can permit the use of their lecture halls to the public for worthwhile programs of public benefit, upon approval of the school board. \"The appropriate school board refused to make a university lecture hall available to the man on the grounds that the proposed lecture was not of worthwhile benefit to the public. As a result, the man brought suit in a state court against the school board and requested injunctive relief requiring the board to allow him the use of the lecture hall. The trial court denied relief and dismissed the suit. The judgment was affirmed by the state appellate court, and is now before the U. S. Supreme Court. In analyzing the state statute, which of the following statements is least accurate?",
+    "options": [
+      "The statute is unconstitutionally overbroad, because it may result in the exclusion of protected speech as well as unprotected speech.",
+      "The statute, as applied to the man, does not violate his First Amendment rights because his proposed speech is not political and, therefore, not among the classes of speech that are protected.",
+      "Indirect speech, regulations are only permissible if necessary to serve compelling state interests.",
+      "The statute is a prior restraint on speech, which unconstitutionally vests unfettered discretion in the school board to decide who may use university lecture halls."
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "A 42-year-old man comes to the physician for a follow-up examination. Four months ago, he underwent repair of a Dupuytren contracture. Physical examination shows decreased range of motion in the affected hand. The patient is upset that his hand has not fully healed, and he files a malpractice suit against the physician. Which of the following is the most likely precipitating factor in this patient's decision to file a malpractice suit?",
+    "options": [
+      "The patient's perception that the physician is incompetent",
+      "The patient's perception that the physician is uncaring",
+      "The patient's socioeconomic status",
+      "The physician's amount of experience in the medical field"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": " Nathanson proposes a form of retributivism that requires all of the following except",
+    "options": [
+      "a list of crimes ranked according to their seriousness.",
+      "a scale of punishments that correspond to the seriousness of certain crimes.",
+      "treating criminals humanely.",
+      "the death penalty for the most serious crimes."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "A parsimonious model is one that",
+    "options": [
+      "Includes too many variables",
+      "Includes as few variables as possible to explain the data",
+      "Is a well-specified model",
+      "Is a mis-specified model"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Rainmaking Lawfirm regularly purchased its office supplies from catalogs. Marty Manager saw an advertising catalog from Costco offering 10,000 envelopes for $1,000 CIF. He immediately sent a purchase order which stated \"our law firm accepts your $1,000 offer for 10,000 envelopes for $1,000 CIF.\"\u009d Costco then sent Rainmaking an order confirmation which stated \"Envelope order acceptance conditional upon a loading charge of $50 per thousand envelopes.\" If the parties disagree on the proper contract relationship, a court would likely rule:",
+    "options": [
+      "A contract at $1,000 because the offer terms CIF means cost, insurance and freight including all loading charges.",
+      "A contract at $1,500 because the loading charges are to be included.",
+      "No contract because the order confirmation was a counteroffer which was not accepted.",
+      "No contract because the purchase order was the offer and, under the mirror image rule, can not be deviated from."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "Parfit claims that the magnitude of pains:",
+    "options": [
+      "can be precisely compared.",
+      "can be compared, but only roughly.",
+      "can be compared within individuals, but not between individuals.",
+      "cannot compared either within individuals or between individuals."
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": " Which of the following is not mentioned by Macedo as a duty that societies have toward nonmembers?",
+    "options": [
+      "duties of fair dealing (e.g., nonexploitation)",
+      "cosmopolitan egalitarian duties (e.g., ensuring that everyone has equal wealth)",
+      "duties of rectification and redress (e.g., redressing those who were oppressed)",
+      "humanitarian duties (e.g., preventing systematic violations of human rights)"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Which one of the following would be a plausible response to a finding of residual non-normality?",
+    "options": [
+      "Use a logarithmic functional form instead of a linear one",
+      "Add lags of the variables on the right hand side of the regression model",
+      "Estimate the model in first differenced form",
+      "Remove any large outliers from the data."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "This jurisdiction has the following bribery statute in effect:\"Any person who offers or gives a thing of value to a government officeholder in exchange for official action is guilty of bribery. \"A real estate developer owned a large parcel of land in the suburbs. Although the developer wanted to build an office building on the property, the land was zoned residential. Due to the residential zoning, the developer could not pursue his planned development unless he received a variance from the building commission. The developer held a meeting with a member of the building commission to solicit his approval in securing a zoning variance. To do so, the developer gave the commission member $10,000 in exchange for his support in approving the zoning variance. Thereupon, the commission member voted to approve the variance, thus making it possible for the developer to commence construction of the office building. The developer was subsequently prosecuted for conspiracy to commit bribery. During the course of the trial, the commission member testified that he faked the agreement with the developer and would have approved the zoning variance regardless of whether the developer gave him any money. Furthermore, in his defense, the developer presented evidence that the other six members of the building commission voted affirmatively to approve the variance. If the jury believed that the commission member would have approved the variance even had he not received the $10,000, the developer should be found",
+    "options": [
+      "guilty, because the commission member's agreement to accept the $10,000 was sufficient to form a conspiratorial objective.",
+      "guilty, because he gave the commission member the $10,000 in exchange for his approval of the zoning variance.",
+      "not guilty, because the commission member did not receive a thing of value, since he would have approved the variance regardless of receiving any payment from the developer.",
+      "not guilty, because there was no true agreement between the parties."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "When your cash balances are at present $1,000 and inflation is expected to be 12% per year, what will be your real balances after 4 years in terms of current prices?",
+    "options": [
+      "$599.69",
+      "$744.40",
+      "$681.47",
+      "$880"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "The universe, like a watch, must have a maker.",
+    "options": [
+      "Fallacy of Accident",
+      "Questionable Analogy",
+      "Questionable Cause",
+      "Fallacy of Composition"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Eosinophilic oesophagitis\n",
+    "options": [
+      "Leads to oesophageal diverticular",
+      "May cause oesopgageal obstruction",
+      "Is not due to allergy",
+      "Benefits from antacid therapy"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "In 1888, a landowner owned a dairy farm. The landowner conveyed this real property to his son in1938. In 1953, the son conveyed the dairy farm to his friend. This deed was not recorded until after the son's death in 1957. In 1956, the son mortgaged the dairy farm to the bank. The mortgage instrument, which was recorded in 1956, recited that it was subordinate to a mortgage on the same land given by the son to an investor in 1936 and recorded in 1936. In that instrument the son purported to grant the investor a mortgage on the dairy farm. In 1979, the friend conveyed the dairy farm to a farmer. This deed was duly recorded, but did not mention any mortgage. In 2008, a buyer entered into an agreement with the farmer, whereby the farmer would convey the dairy farm in fee simple to the buyer for the sum of $75,000. The closing date was set for January 15, 2009. All of the deeds mentioned in the aforementioned transactions are general warranty deeds. In addition, this jurisdiction has a notice-type recording statute and follows a title theory for mortgages. On January 15, 2009, the sale of the dairy farm is finalized and the buyer paid the farmer $75,000. The fanner executed a general warranty deed. The deed contains the following covenants of title:(1) Covenant for seisin. (2) Covenant of the right to convey. (3) Covenant against encumbrances. After the buyer takes possession of the dairy farm, he learns of the son \u0080\u0094investor 1936 mortgage, which was not satisfied, and seeks monetary damages for breach of the covenant against encumbrances. Judgment should be for",
+    "options": [
+      "the buyer, because the covenant against encumbrances is a guarantee to the grantee that the property is not subject to outstanding rights or interests.",
+      "the buyer, because the covenant against encumbrances would be breached at the time the deed was delivered, thereby entitling the covenantee to recover damages.",
+      "the farmer, because the covenant against encumbrances may only be breached, if at all, at the time of conveyance.",
+      "the farmer, unless the covenantee is disturbed in his actual enjoyment of the land thereby conveyed."
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "Distinguish between money wages and real wages.",
+    "options": [
+      "Money wages represent the value of work, while real wages represent the amount of cash received.",
+      "Money and real wages are the same.",
+      "Money wages are the amount of cash workers spend, while real wages indicate the amount they save.",
+      "Money wages are the amount of cash workers receive per unit of time on the job, while real wages indicate the actual value of the money wages or their purchasing power."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "According to Parfit, the obligation to give priority to the welfare of one\u2019s children is:",
+    "options": [
+      "agent-relative.",
+      "agent-neutral.",
+      "absolute.",
+      "none of the above."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "At the birthday party of your best friend, you see Skylar help himself to a second piece of cake. For this individual, it must be the case that",
+    "options": [
+      "the marginal benefit of the second piece of cake is less than the marginal cost.",
+      "the total benefit received from eating cake is falling.",
+      "the ratio of marginal benefit over marginal cost is less than one.",
+      "the marginal benefit of the second piece of cake is greater than the marginal cost."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Which one of the following statements is false?",
+    "options": [
+      "Protocol 14 changed the committee that hears admissibility cases from a three judge to a one judge formation",
+      "Protocol 14 added a new criterion for admissibility",
+      "Protocol 14 abolished the Commission of Human Rights",
+      "Protocol 14 extended the judicial term of office for the European Court of Human Rights"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "Stevenson\u2019s primary aim in this paper is to:",
+    "options": [
+      "provide an account of what makes right actions right.",
+      "establish which things are good in themselves.",
+      "develop a theory of good moral character.",
+      "make ethical questions clear."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Kelsen\u2019s theory of law is called pure theory because Kelsen :",
+    "options": [
+      "Purely discussed jurisprudence only",
+      "Defined law in according with morality and purity",
+      "Separated law from religion, ethics, sociology and history",
+      "Discussed law purely in terms of justice"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "The natural law fallacy is a specific type of",
+    "options": [
+      "false analogy",
+      "false cause",
+      "false criteria",
+      "false sign"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "What is the immediate effect on the money supply if Bank A re-ceives a deposit of $ 1000 in currency from Mr. X and grants a loan of $ 500 to Mr. Y?",
+    "options": [
+      "add $1000 to the money supply",
+      "add $ 500 to the money supply",
+      "no change in the money supply",
+      "reduce $1000 from the money supply"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Consider an identical situation to that of question 21, except that now a 2-sided alternative is used. What would now be the appropriate conclusion?",
+    "options": [
+      "H0 is rejected",
+      "H0 is not rejected",
+      "H1 is rejected",
+      "There is insufficient information given in the question to reach a conclusion"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "The replication of hepatitis B includes which of the following stages?",
+    "options": [
+      "Movement of intact virus to the cellular cytoplasm for replication",
+      "Conversion of relaxed circular viral DNA in to covalently closed circular (CCC) DNA in the nucleus",
+      "Virions produced in the cytoplasm by cellular DNA polymerase",
+      "Oncogenic activity to transform liver cells."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "What is the biggest risk factor for infection with Ebola?",
+    "options": [
+      "Working in a category IV laboratory",
+      "Attending a funeral of a victim outside",
+      "Nursing a patient at home",
+      "Attending football matches or large gatherings"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "A previously healthy 17-year-old girl comes to the emergency department because of a 5-day history of progressive lower abdominal pain, fever, and malodorous vaginal discharge. Menarche was at the age of 12 years, and her last menstrual period was 2 weeks ago. She is sexually active with one male partner and uses a combination contraceptive patch. Her temperature is 37.8\u00b0C (100\u00b0F), pulse is 90/min, respirations are 22/min, and blood pressure is 110/70 mm Hg. Abdominal examination shows severe lower quadrant tenderness bilaterally. Pelvic examination shows a purulent cervical discharge, cervical motion tenderness, and bilateral adnexal tenderness. Her hemoglobin concentration is 10.5 g/dL, leukocyte count is 13,000/mm3 , and platelet count is 345,000/mm3 . A urine pregnancy test is negative. Which of the following is the most appropriate pharmacotherapy?",
+    "options": [
+      "Oral azithromycin",
+      "Vaginal clindamycin",
+      "Intravenous penicillin and vancomycin",
+      "Intramuscular ceftriaxone and oral doxycycline"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "Economy X is an open economy with flexible exchange rates. Economy Y is closed. Ceteris paribus expansionary monetary policy is",
+    "options": [
+      "more effective in X because the policy will increase net exports.",
+      "more effective in X because the policy will decrease net exports.",
+      "equally effective in X and Y.",
+      "less effective in X because the policy will decrease net exports."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "On May 2, a woman mailed the following letter to a man:\"May 1I have two tickets to the concert on July 1 at the auditorium in town. I'll sell them to you for $60 per ticket, which is $10 above face value. Since the concert has been sold out for months, I think that is a good deal. You have 15 days from the above date to decide whether to accept this offer. \"The man received the letter on May 4, but did not read it until May 6. On May 18, the man went to the woman's home and attempted to accept the offer. The woman replied:\"Too late! I sold the tickets last week for $75 each. \"Assume that the woman's letter created in the man a valid power of acceptance. Was that power terminated by lapse of time before the man went to the woman's home on May 17?",
+    "options": [
+      "Yes, because the letter was mailed on May 2.",
+      "Yes, because the letter was dated May 1.",
+      "No, because the man received the letter on May 4.",
+      "No, because the man did not read the letter until May 6."
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "What is the meaning of \"armed attack\" in Article 51 UN Charter?",
+    "options": [
+      "Armed attack includes all types of armed force",
+      "Armed attack includes all high intensity instances of armed force",
+      "Armed attack includes terrorist attacks",
+      "An \"armed attack\" gives the right to invade the aggressor State"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": " According to Altman, justifications of speech codes that take account of which of the following kinds of harm have the best prospects for success?",
+    "options": [
+      "causal harm",
+      "expressive harm",
+      "both causal and expressive harm",
+      "auxiliary harm"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "\" _Ad novitatem_ \" is a specific kind of fallacy of",
+    "options": [
+      "Division",
+      "False sign",
+      "False cause",
+      "Hasty Generalization"
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "\" _Ad lazarum_ \" is",
+    "options": [
+      "a specific type of false sign that argues there is necessarily an inverse relationship between cost and quality, so something is necessarily a better value because it costs less",
+      "arguing that what is true of an entire object must also be true of every individual part of that object",
+      "a specific type of false analogy that reasons what is true about nature must be true about humans",
+      "drawing a conclusion without enough evidence to support that conclusion"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "If you argued something is flawed because it fails to do something, when it was never intended to do that, you may have committed which of the following fallacies?",
+    "options": [
+      "ad ignorantium",
+      "Many questions",
+      "Extension",
+      "Compound proposition"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": " For Socrates, the belief that \"virtue is knowledge\" is related to his claim that \"the unexamined life is not worth living,\" because he believes that:",
+    "options": [
+      "the unexamined life is one in which we live day to day without asking questions about who we are and why we are here in the first place.",
+      "the Delphic oracle identified Socrates as the wisest person on earth because he claimed to know nothing.",
+      "by questioning traditional beliefs, we learn to recognize how some answers seem to be more satisfactory than others.",
+      "the only way to be a good or worthwhile person is to know how human beings should behave based on universal norms or values."
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "Which of the following statements about human amino acid requirements in human nutrition is correct?\n",
+    "options": [
+      "The amino acid requirements determined for adults is assumed to be the requirement pattern for all ages.",
+      "The amino acid requirements determined for adults is assumed to be the requirements for maintenance for all ages.",
+      "The amino acid pattern of breast milk is assumed to be the requirement pattern for all children.",
+      "The amino acid pattern of human tissue protein is assumed to be the requirement patterns for infants and young children."
+    ],
+    "answer": "B",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "Which reason may constitute sufficient good cause or excusable neglect to enable a litigant to file a late notice of appeal past the 30-day deadline?",
+    "options": [
+      "The district court judge assured the litigant that the late filing would be permitted.",
+      "The litigant's original attorney neglected to file notice on time, and now the litigant has retained a new attorney to file the appeal and has also sued the former attorney for malpractice.",
+      "The litigant ran a red light causing a car crash just before the judgment was rendered, and was in the hospital for two months recovering.",
+      "Opposing counsel agreed not to object to the late notice of appeal."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "Which one of the following criticisms of the Dickey-Fuller/Engle-Granger approach to dealing with cointegrated variables is overcome by the Engle-Yoo (EY) procedure?",
+    "options": [
+      "In the context of small samples, Dickey Fuller tests are prone to conclude that there is a unit root in a series when there is not",
+      "The Engle-Granger (EG) approach can only detect up to one cointegrating relationship even though there could be more than one",
+      "The variables are treated asymmetrically in the cointegrating tests",
+      "It is not possible to perform tests about the cointegrating relationship"
+    ],
+    "answer": "D",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "\"Economic theory is applicable only to a capitalist society.\" Evaluate.",
+    "options": [
+      "Economic theory is applicable to any system of competition",
+      "Economic theory cannot be applied to socialist societies",
+      "Economic theory is irrelevant to communist systems",
+      "Economic theory is only applicable to capitalist systems"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "economics"
+  },
+  {
+    "problem": "Arguing that someone couldn't have done something good because she holds a particular position commits the fallacy of",
+    "options": [
+      "Guilt by association",
+      "False dilemma",
+      "Reprehensible personality",
+      "False dichotomy"
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "philosophy"
+  },
+  {
+    "problem": "A developer wished to build an apartment house in a local city. He raised $1 million from various sources to fund the project. After searching for a vacant lot that would be sufficient for development, the developer concluded that there was not a suitable vacant lot available. Reluctantly, the developer concluded that he would have to purchase a developed lot, have the existing structures removed, and then build the apartment house. The developer was reluctant to do this, because he had not budgeted for the additional cost of buying a developed property and removing the development. After a search for an appropriate parcel, the developer purchased a large lot, developed with a single-story residential home, for $200,000. He then spent $50,000 having the residential home removed from the lot. Knowing that it would cost approximately $850,000 to build the apartment house, the developer realized he would need to raise another $100,000. He approached an investor about lending him $100,000. The investor was apprehensive about the project because the developer had not yet lined up a construction firm to build the apartment house. As a result, the parties signed the following written agreement:\"The investor promises to lend to the developer $100,000 at 5 percent interest within 30 days, provided the developer contracts with a construction company to build the apartment house for no more than $850,000. Loan to be repaid at the rate of $1,000 per month, starting one month after the completion of the apartment house. The loan is to be secured by a mortgage on the property. \"The developer then contracted with a construction company to build the apartment for $800,000. After the contract was signed and construction had begun, the developer asked the investor when he would be receiving the $100,000 the investor promised to lend him. The investor replied, \"I've changed my mind. I think this is too risky an investment. I'm not going to lend you the money. \"In an appropriate action to secure specific performance of the investor's promise to lend him the $100,000, the developer will",
+    "options": [
+      "win, because there is a memorandum that satisfies the Statute of Frauds.",
+      "win, because land is unique, making the legal remedy inadequate.",
+      "lose, because the developer's only remedy is for damages.",
+      "lose, because the developer cannot show detrimental reliance."
+    ],
+    "answer": "C",
+    "source": "mmlu",
+    "domain": "law"
+  },
+  {
+    "problem": "Food supplements, including trace minerals and vitamins are frequently advertised with promising health benefits. Which of the following substance could be consumed in excess, i.e. well above the recommended daily requirement?\n",
+    "options": [
+      "Vitamin C",
+      "Vitamin D",
+      "Zinc",
+      "Vitamin A"
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "health"
+  },
+  {
+    "problem": "A defendant was driving his new sports car at a high rate of speed on a busy city street in the middle of the day. A pedestrian was struck by the defendant's car as she was crossing the street and was seriously injured. A criminal complaint was filed against the defendant and, at trial, he testified that he did not intend to injure anyone, but admitted that he was indifferent as to the consequences of driving recklessly. Based on the defendant's actions and testimony, he should be found guilty of ",
+    "options": [
+      "battery.",
+      "attempted murder.",
+      "attempted manslaughter.",
+      "assault with the intent to cause serious bodily injury."
+    ],
+    "answer": "A",
+    "source": "mmlu",
+    "domain": "law"
+  }
+]

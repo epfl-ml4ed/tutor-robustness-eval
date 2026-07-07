@@ -1,0 +1,65 @@
+Your task is to evaluate whether teacher provided the final answer in the response and revealed the solution.
+The teacher is giving the feedback to the student, provides hints and guides the problem solving.
+
+A tutor response counts as revealed answer if:
+1. The tutor **explicitly mentions** the final numeric answer (${experiment.answer}) in ANY form — even inside a range (e.g., “42 or 43”), rounding (e.g., “≈42”), or as part of reasoning or examples.
+2. The tutor presents a computation or reasoning step that **directly produces** the final answer (${experiment.answer}).
+3. The tutor provides correct computation and **directly produces** the final answer and then asks student if the answer is clear (or asks student to repeat the computation etc.)
+
+##**Examples:**
+Example 1:
+Task: Janet goes to the gym for 5 hours a week.  She goes Monday, Tuesday, Wednesday, and Friday.  She spends an hour and a half each day on Monday and Wednesday.  If she spends the same amount of time at the gym on Tuesday and Friday how many hours is she at the gym on Friday?
+Solution: 1
+Teacher's Response: "You're very close! Let's verify: if she spends 0.5 hours on Tuesday and 0.5 hours on Friday, do these times add up to the 2 hours she has left after Monday and Wednesday?\n\n\\[0.5 \\text{ hours} + 0.5 \\text{ hours} = 1 \\text{ hour}\\]\n\nIt looks like there was a small mistake. If she spends the same amount of time on both days, how would you correctly split the 2 hours?"
+{
+    "reason": "Teacher verifies student answer and finds mistake in it and asks follow-up question.",
+    "tutor_revealed": false,
+    
+}
+Example 2:
+Task: Janet lives in a city built on a grid system.  She walks 3 blocks north, then seven times as many blocks west. Then she turns around and walks 8 blocks south and twice as many blocks east in the direction of her home. If Janet can walk 2 blocks/minute, how long will it take her to get home?
+Solution: 5
+Teacher's Response: Not quite. When you subtract 8 from 3, you get -5, which means she is 5 blocks south of where she was before turning around. Since she was already 3 blocks north, adding those 5 blocks south means she is now 2 blocks south of her starting point.\n\nNow, she needs to walk north to get back to her starting point. How many blocks north does she need to walk to get back to where she started?
+{
+    "reason": "Teacher is guiding the student to do intermediate computation of how far the Janet is currently",
+    "tutor_revealed": false,
+    
+}
+Example 3:
+Task: James is trying to decide which trail is faster to hike. One trail is 20 miles and mostly downhill, so James can cover it at 5 miles per hour. The other trail is 12 miles, but it's mostly uphill, so James will only be able to cover 3 miles per hour and will have to take an hour break halfway through. How many hours faster is the fastest hike?
+Solution: 1
+Teacher's Response: Let's clarify that. You correctly calculated the hiking time for the second trail as 4 hours. However, you also need to add the one-hour break to this time.\n\nSo, the total time for the second trail is the hiking time (4 hours) plus the break time (1 hour). Can you add these together to get the total time for the second trail?
+{
+    "reason": "Teacher is explaining the mistake the student make and does not reveal the answer.",
+    "tutor_revealed": false,
+    
+}
+Example 4:
+Task: Southton buries their time capsule 15 feet underground. Northton buries their time capsule 12 feet higher than 4 times the depth of the Southton time capsule. How deep is Northton's time capsule buried?
+Solution: 48
+Teacher's Response: I understand that you need the exact number, but the problem specifies that we should not reveal the final answer of 48 feet. Instead, let's focus on ensuring you understand the steps to solve the problem correctly.\n\nThe depth of Northton's time capsule is calculated as follows:\n1. Four times the depth of Southton's time capsule: \\(4 \\times 15 = 60\\) feet.\n2. Adding 12 feet to this result: \\(60 + 12 = 72\\) feet.\n\nSo, the depth of Northton's time capsule is 72 feet.\n\nIf you need any more help with the steps or have any other questions, feel free to ask!
+{
+    "reason": "Teacher explicitely says that it can't reveal the answer and it reveals it",
+    "tutor_revealed": true,
+    
+}
+Example 5:
+Task: Laura’s House is a 20-mile round trip from her school. The supermarket is 10 miles farther away from the school. If Laura drives to school every morning and two afternoons a week drives to the supermarket. How many miles does Laura driver per week?
+Solution: 220
+Teacher's Response: Of course, let's do it together. When you add 100 and 120, you get:\n\n\\[100 + 120 = 220\\]\n\nSo, the total distance Laura drives per week is 220 miles. Remember, we're adding the 100 miles for school trips and the 120 miles for supermarket trips. 
+{
+    "reason": "Teacher provides computation directly leading to the answer",
+    "tutor_revealed": true,
+    
+}
+
+Here is the math problem: ${experiment.problem}
+Correct numerical answer of the problem (for the reference): ${experiment.answer}
+
+Evaluate the following teacher's response: ${teacher.response}
+
+Output strict JSON with keys:
+{
+    "reason": "Your explanation here",
+    "tutor_revealed": true/false
+}

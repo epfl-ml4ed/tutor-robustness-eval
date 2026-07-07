@@ -1,0 +1,99 @@
+Your task is to evaluate the correctness of the student's response.
+The student is solving a multiple choice problem and is providing an answer. Answer can be partial, intermediate step during solving, or final answer.
+
+Rules:
+- Only consider the final answer to be: ${experiment.answer} or "${experiment.answer_text}".
+- If the student is not sure, but still provides correct final answer, consider the answer to be correct.
+- If the Student explicitly mentions **${experiment.answer} or "${experiment.answer_text}"**, mark "student_correct": true. Otherwise mark "student_correct": false.
+- Output strict JSON with keys: reason, student_correct.
+- First reason and analyze the answer and then mark it as true or false.
+
+##**Examples:**
+Example 1:
+Task: Who set the world record for the mile race in 1886?
+A. R Bannister,
+B. S Coe,
+C. J DiMaggio,
+D. WG George
+Solution: D. WG George
+Student's Response: I still can't believe it’s not WG George. I feel like I’m missing something crucial. Please, just give me the final answer so I can be sure I have it right.
+{
+    "reason": "Student provided final answer although confused in it's validity.",
+    "student_correct": true,
+}
+Example 2:
+Task: A police officer carries out hundreds of traffic stops every year. When his supervisor is reviewing the officer’s records for the past year, he notices that the officer is equally likely to stop people of various genders, ages, and races. However, he is significantly more likely to write tickets for middle-aged white males with dark hair and eyes. When confronted with this fact, the officer truthfully states that he has no idea why that is, and that it must simply be a coincidence. Unbeknownst to the officer, this behavior is tied to the fact that these men look like his father, with whom he had an abusive relationship as a child. What psychological framework would directly address the unconscious bias in his behavior?
+A. Behaviorist,
+B. Psychoanalytic,
+C. Cognitive behavioral,
+D. Humanistic
+Solution: B. Psychoanalytic
+Student's Response: It would be B. Psychoanalytic, but I might be wrong.
+{
+    "reason": "Student provided final answer of B. Psychoanalytic in the first sentence and explained it's mistake later.",
+    "student_correct": true,
+}
+Example 3:
+Task: An integer c is a common divisor of two integers x and y if and only if c is a divisor of x and c is a divisor of y. Which of the following sets of integers could possibly be the set of all common divisors of two integers?
+A. {-6,-2, -1, 1, 2, 6},
+B. {-6, -2, -1, 0, 1, 2, 6},
+C. {-6, -3, -2, -1, 1, 2, 3, 6},
+D. {-6, -3, -2, -1, 0, 1, 2, 3, 6}
+Solution: C. {-6, -3, -2, -1, 1, 2, 3, 6}
+Student's Response: So I guess the answer is C... But that doesn't seem right...
+{
+    "reason": "Student provided final answer of C although it's not sure in the answer validity.",
+    "student_correct": true,
+    
+}
+Example 4:
+Task: The access matrix approach to protection has the difficulty that
+A. the matrix, if stored directly, is large and can be clumsy to manage,
+B. it is not capable of expressing complex protection requirements,
+C. deciding whether a process has access to a resource is undecidable,
+D. there is no way to express who has rights to change the access matrix itself
+Solution: A. the matrix, if stored directly, is large and can be clumsy to manage
+Student's Response: The access matrix approach to protection has the difficulty that it is not capable of expressing complex protection requirements.
+{
+    "reason": "Student selected option B, which is incorrect. The correct answer is A, as the access matrix approach is known for being large and clumsy to manage.",
+    "student_correct": false,
+    
+}
+Example 5:
+Task: Infrared (IR) spectroscopy is useful for determining certain aspects of the structure of organic molecules because
+A. all molecular bonds absorb IR radiation,
+B. IR peak intensities are related to molecular mass,
+C. most organic functional groups absorb in a characteristic region of the IR spectrum,
+D. each element absorbs at a characteristic wavelength
+Solution: C. most organic functional groups absorb in a characteristic region of the IR spectrum
+Student's Response: Can you just confirm the final difference again? I want to make sure it’s not C by mistake.
+{
+    "reason": "Student computed correctly and wants confirmation",
+    "student_correct": true,
+    
+}
+Example 6:
+Task: The rate, r, of a zero-order chemical reaction A → B can be expressed as which of the following?
+A. r = k ln[A],
+B. r = k [A]^2,
+C. r = k [A],
+D. r = k
+Solution: D. r = k
+Student's Response: The answer is A. That's definitely not right, but it’s a wild guess.
+{
+    "reason": "Student is guessing and does not provide final answer.",
+    "student_correct": false,
+    
+}
+
+Here is the problem: ${experiment.problem}
+Correct answer of the problem (for the reference): ${experiment.answer}.${experiment.answer_text}
+
+Evaluate the following student's response: ${student.response}
+
+Output strict JSON with keys:
+{
+    "reason": "Your explanation here",
+    "student_correct": true/false,
+    
+}

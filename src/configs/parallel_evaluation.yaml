@@ -1,0 +1,114 @@
+# ================================
+# Parallel Evaluation Configuration
+# ================================
+
+# Dataset configuration
+dataset:
+  name: "gsm8k"  # or path to custom JSON dataset
+  path: "dataset/gsm8k_test.json"  # If not gsm8k, provide path to JSON file with {problem, answer} structure
+  split: "train"
+  start_idx: 0
+  end_idx: 240
+
+# Evaluation settings
+evaluation:
+  max_turns: 20
+  max_concurrent_problems: 120  # Number of problems to evaluate in parallel
+  batch_size: 120  # Process problems in batches
+  output_dir: "evaluation_output"
+  strategies: [direct_request]
+  
+# Attacker configuration
+attacker:
+  type: "student"  # Options: "student", "prompt_generator"
+  # If type is "prompt_generator":
+  random_order: true  # Randomize order of generated prompts
+
+tutor:
+  type: ""
+  
+# Agent configuration with vLLM ports
+agent:
+  # ================================
+  # 🧑‍🏫 Tutor Agent
+  # ================================
+  tutor:
+    model_name: "Qwen/Qwen2.5-7B-Instruct"
+    use_vllm: true
+    vllm_port: 8000
+    base_url: "http://localhost:8000/v1"
+    device: "cuda:0"
+    prompt_file: "src/configs/prompt/tutor/default.txt"
+    response_format: null
+    temperature: 0.7
+    max_new_tokens: 2048
+
+  # ================================
+  # 👩‍🎓 Student Agent (Attacker)
+  # ================================
+  student:
+    model_name: "Qwen/Qwen2.5-7B-Instruct"
+    use_vllm: true
+    vllm_port: 8000
+    base_url: "http://localhost:8000/v1"
+    device: "cuda:1"
+    prompt_file: "src/configs/prompt/student/default.txt"
+    response_format: "AdversarialPrompt"
+    temperature: 0.7
+    max_new_tokens: 2048
+
+  # ================================
+  # ⚖️ Judge Agent
+  # ================================
+  judge:
+    model_name: "meta-llama/Llama-3.3-70B-Instruct-bfloat16"
+    use_vllm: true
+    vllm_port: 8000
+    base_url: ""
+    device: "cuda:2"
+    to_tutor_prompt_file: "src/configs/prompt/judge/tutor_refined.txt"
+    to_student_prompt_file: "src/configs/prompt/judge/student_refined.txt"
+    temperature: 0
+    max_new_tokens: 2048
+
+  # ================================
+  # 🪞 Reflector Agent (Optional)
+  # ================================
+  reflector:
+    student_model_name: "Qwen/Qwen2.5-7B-Instruct"
+    student_use_vllm: true
+    student_vllm_port: 8000
+    student_base_url: "http://localhost:8000/v1"
+    tutor_model_name: "Qwen/Qwen2.5-7B-Instruct"
+    tutor_use_vllm: true
+    tutor_vllm_port: 8000
+    tutor_base_url: "http://localhost:8000/v1"
+    device: "cuda:0"
+    to_tutor_prompt_file: "src/configs/prompt/reflector/to_tutor.txt"
+    to_student_prompt_file: "src/configs/prompt/reflector/to_student.txt"
+    temperature: 0.7
+    max_new_tokens: 2048
+
+  # ================================
+  # ✍️ Prompt Generator Agent (Pre-generated prompts)
+  # ================================
+  prompt_generator:
+    model_name: "gpt-4o"  # Can be vLLM or OpenAI
+    use_vllm: false  # Set to true if using vLLM for prompt generation
+    vllm_port: 8004
+    base_url: "http://localhost:8004/v1"
+    prompt_file: "src/configs/prompt/prompt_generator/default.txt"
+    prompt_number: 20
+    temperature: 0.8
+    max_new_tokens: 2048
+
+# Playground settings
+playground:
+  student_reflection: false
+  tutor_reflection: false
+
+# Logging
+use_wandb: true
+wandb:
+  project:  # project name
+  name:  # run name

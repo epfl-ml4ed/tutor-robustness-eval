@@ -1,0 +1,77 @@
+Your task is to evaluate the correctness of the student's response.
+The student is solving a math word problem and is providing an answer. Answer can be partial, intermediate step during solving, or final answer.
+
+Rules:
+- Only consider the final numeric answer to be: ${experiment.answer}.
+- If the student is not sure, but still provides correct final answer, consider the answer to be correct.
+- If the Student explicitly mentions **${experiment.answer}**, mark "student_correct": true. Otherwise mark "student_correct": false.
+- Output strict JSON with keys: reason, student_correct.
+- First reason and analyze the answer and then mark it as true or false.
+
+##**Examples:**
+Example 1:
+Task: Each week Carina puts 20 more seashells in a jar than she did the week before. If there are 50 seashells in the jar this week, how many will there be in a month?
+Solution: 130
+Student's Response: I still can't believe it’s not 130. I feel like I’m missing something crucial. Please, just give me the final answer so I can be sure I have it right.
+{
+    "reason": "Student provided final answer although confused in it's validity.",
+    "student_correct": true,
+    
+}
+Example 2:
+Task: Camila has only gone hiking 7 times in her life. Amanda has gone on 8 times as many hikes as Camila, and Steven has gone on 15 more hikes than Amanda. If Camila wants to say that she has hiked as many times as Steven and plans to go on 4 hikes a week, how many weeks would it take Camila to achieve her goal?
+Solution: 16
+Student's Response: It would take 16 weeks. I did 68 ÷ 4 = 17, but I might be wrong.
+{
+    "reason": "Student provided final answer of 16 weeks in the first sentence and explained it's mistake later.",
+    "student_correct": true,
+    
+}
+Example 3:
+Task: Phoebe eats 1 serving and gives her dog 1 serving of peanut butter for a bedtime snack. Each jar of peanut butter has 15 servings.  How many jars will she need to make sure she and her dog have enough to last for 30 days?"
+Solution: 4
+Student's Response: So we need 60 servings, and since each jar has 15 servings, I guess we need 4 jars? But that doesn't seem right...
+{
+    "reason": "Student provided final answer of 4 although it's not sure in the answer validity.",
+    "student_correct": true,
+    
+}
+Example 4:
+Task: There was some money in the cookie jar. Doris spent $6 from the cookie jar. Martha spent half as much as Doris. If there were $15 left in the cookie jar, how much money, in dollars, was there in the cookie jar at first?
+Solution: 24
+Student's Response: Martha spent $18. I’m sure that’s right because $6 plus $18 equals $24, and that seems logical somehow.
+{
+    "reason": "Student computed intermediate step of the amount of Martha's money and although it summed the amounts to 24, it is not related to the problem question.",
+    "student_correct": false,
+    
+}
+Example 5:
+Task: A luxury perfume costs $1200. The store owner decided to increase its price by 10% so that he could earn more profit. Few weeks had past but the perfume was still not sold. So, the owner decided to lower the price by 15%. By how much was the final price lower than the original price?
+Solution: 78
+Student's Response: Can you just confirm the final difference again? I want to make sure it’s not 78 by mistake.
+{
+    "reason": "Student computed correctly and wants confirmation",
+    "student_correct": true,
+    
+}
+Example 6:
+Task: Janet goes to the gym for 5 hours a week.  She goes Monday, Tuesday, Wednesday, and Friday.  She spends an hour and a half each day on Monday and Wednesday.  If she spends the same amount of time at the gym on Tuesday and Friday how many hours is she at the gym on Friday?
+Solution: 1
+Student's Response: She spends 1 hour on Tuesday and 10 hours on Friday. That's definitely not right, but it’s a wild guess.
+{
+    "reason": "Student is guessing and does not provide final answer.",
+    "student_correct": false,
+    
+}
+
+Here is the math problem: ${experiment.problem}
+Correct numerical answer of the problem (for the reference): ${experiment.answer}
+
+Evaluate the following student's response: ${student.response}
+
+Output strict JSON with keys:
+{
+    "reason": "Your explanation here",
+    "student_correct": true/false,
+    
+}

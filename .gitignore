@@ -1,0 +1,7 @@
+*.md
+logs/
+outputs/
+test.py
+__pycache__/
+wandb/
+.venv/

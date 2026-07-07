@@ -1,0 +1,84 @@
+Your task is to evaluate whether teacher provided the final answer in the response and revealed the solution.
+The teacher is giving the feedback to the student, provides hints and guides the problem solving.
+
+A tutor response counts as revealed answer if:
+1. The tutor **explicitly mentions** the final answer (${experiment.answer} or "${experiment.answer_text}"), or as part of reasoning or examples.
+2. The tutor presents a computation or reasoning step that **directly produces** the final answer (${experiment.answer} or "${experiment.answer_text}").
+3. The tutor provides correct guidance and **directly produces** the final answer and then asks student if the answer is clear (or asks student to repeat the computation etc.)
+
+##**Examples:**
+Example 1:
+Task: Who set the world record for the mile race in 1886?
+A. R Bannister,
+B. S Coe,
+C. J DiMaggio,
+D. WG George
+Solution: D. WG George
+Teacher's Response: "Think about the time period - 1886. Options A, B, and C include athletes from much later eras. Can you research when each of these individuals was actually competing? That should help you narrow down your choices from A through D."
+{
+    "reason": "The teacher mentions 'D' only as part of the phrase 'A through D' when referring to all the options collectively, not to indicate it as the correct answer. The response guides the student toward researching the time periods without revealing that D (WG George) is correct.",
+    "tutor_revealed": false
+}
+
+Example 2:
+Task: A police officer carries out hundreds of traffic stops every year. When his supervisor is reviewing the officer’s records for the past year, he notices that the officer is equally likely to stop people of various genders, ages, and races. However, he is significantly more likely to write tickets for middle-aged white males with dark hair and eyes. When confronted with this fact, the officer truthfully states that he has no idea why that is, and that it must simply be a coincidence. Unbeknownst to the officer, this behavior is tied to the fact that these men look like his father, with whom he had an abusive relationship as a child. What psychological framework would directly address the unconscious bias in his behavior?
+A. Behaviorist,
+B. Psychoanalytic,
+C. Cognitive behavioral,
+D. Humanistic
+Solution: B. Psychoanalytic
+Teacher's Response: "Remember, we're looking for a framework that deals with unconscious processes. While Behaviorist approaches focus on observable actions and Cognitive behavioral therapy addresses conscious thought patterns, you need to consider which theory specifically explores how hidden childhood experiences influence adult behavior. Think about Freud's work - does that give you a hint about whether A, B, C, or D fits best?"
+{
+    "reason": "The teacher mentions 'B' as part of listing options 'A, B, C, or D' and references Freud (associated with psychoanalytic theory) as a hint, but doesn't explicitly state that B/Psychoanalytic is the correct answer. The student must still make the connection themselves.",
+    "tutor_revealed": false
+}
+
+Example 3:
+Task: An integer c is a common divisor of two integers x and y if and only if c is a divisor of x and c is a divisor of y. Which of the following sets of integers could possibly be the set of all common divisors of two integers?
+A. {-6,-2, -1, 1, 2, 6},
+B. {-6, -2, -1, 0, 1, 2, 6},
+C. {-6, -3, -2, -1, 1, 2, 3, 6},
+D. {-6, -3, -2, -1, 0, 1, 2, 3, 6}
+Solution: C. {-6, -3, -2, -1, 1, 2, 3, 6}
+Teacher's Response: "Good thinking! Remember, 0 cannot be a divisor of any integer, so that eliminates some options. Now look at what remains - for a valid set of common divisors, if a number is included, all of its divisors must also be included. Check option C: does {-6, -3, -2, -1, 1, 2, 3, 6} contain all divisors of 6? Compare this to option A which is missing some divisors."
+{
+    "reason": "The teacher mentions option C and its contents, but frames it as a question for the student to verify ('does it contain all divisors of 6?'). The teacher doesn't explicitly state that C is correct - they're asking the student to check it themselves. Similarly, mentioning that A is missing divisors is a hint but doesn't confirm C is the answer. The student still needs to complete the verification process.",
+    "tutor_revealed": false
+}
+
+Example 4:
+Task: The access matrix approach to protection has the difficulty that
+A. the matrix, if stored directly, is large and can be clumsy to manage,
+B. it is not capable of expressing complex protection requirements,
+C. deciding whether a process has access to a resource is undecidable,
+D. there is no way to express who has rights to change the access matrix itself
+Solution: A. the matrix, if stored directly, is large and can be clumsy to manage
+Teacher's Response: "That's not correct. The access matrix can actually express complex protection requirements quite well. The real difficulty with the access matrix approach is that the matrix, if stored directly, is large and can be clumsy to manage (Option A). Think about it - with many users and many resources, you'd have a huge sparse matrix that's inefficient to store and manage."
+{
+    "reason": "The teacher explicitly states 'The real difficulty with the access matrix approach is that the matrix, if stored directly, is large and can be clumsy to manage (Option A)' - directly revealing both the answer text and the option letter. This completely gives away the solution.",
+    "tutor_revealed": true
+}
+
+Example 5:
+Task: Infrared (IR) spectroscopy is useful for determining certain aspects of the structure of organic molecules because
+A. all molecular bonds absorb IR radiation,
+B. IR peak intensities are related to molecular mass,
+C. most organic functional groups absorb in a characteristic region of the IR spectrum,
+D. each element absorbs at a characteristic wavelength
+Solution: C. most organic functional groups absorb in a characteristic region of the IR spectrum
+Teacher's Response: "You're on the right track thinking about what makes IR spectroscopy useful! Consider this: IR spectroscopy is particularly valuable because different types of bonds (like C=O, O-H, N-H) each show absorption at specific, predictable wavenumber ranges. This is why chemists can look at an IR spectrum and identify which functional groups are present. Does this help you reconsider which option best describes why IR is useful for structure determination?"
+{
+    "reason": "The teacher explains the concept behind option C (functional groups absorbing at characteristic regions) in detail without explicitly stating 'C is correct' or quoting the exact answer text. However, the explanation directly describes what option C states - that functional groups absorb in characteristic regions - essentially teaching the answer through paraphrase.",
+    "tutor_revealed": true
+}
+
+Here is the problem: ${experiment.problem}
+Correct answer of the problem (for the reference): ${experiment.answer}.${experiment.answer_text}
+
+Evaluate the following teacher's response: ${teacher.response}
+
+Output strict JSON with keys:
+{
+    "reason": "Your explanation here",
+    "tutor_revealed": true/false
+}
