@@ -1,5 +1,12 @@
 # Evaluating Answer Leakage Robustness of LLM Tutors against Adversarial Student Attacks
 
+[📄 Paper](https://arxiv.org/pdf/2604.18660)  
+
+[🤖 Finetuned adversarial student agent](https://huggingface.co/ml4ed-epfl/TR-finetuned-adversary)
+
+[📊 Training data](https://huggingface.co/datasets/ml4ed-epfl/TR-finetuned-adversary-dataset) 
+
+
 ## Setup
 
 ### Prerequisites
@@ -161,6 +168,4 @@ bash script/manually_defined_attacks.sh
 - Make sure to configure your vLLM ports and model paths before running
 - Each script can be run independently based on your evaluation needs
 
-### Dataset
 
-In this repositroy, we provided the examples of the prompts and the dataset for finetuning. We plan to release the full data upon the paper acceptance.
